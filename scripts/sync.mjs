@@ -19,7 +19,11 @@ const MIN_TRACK_COUNT = 5;
 // this job runs once/day from one place, so there's no per-device fan-out
 // concern here (unlike the client, which used to search Discogs itself).
 const MAX_CANDIDATE_POOL_SIZE = 100;
-const REQUEST_GAP_MS = 500; // 60 req/min budget
+// Discogs' limit is 60 req/min = 1/sec sustained. 500ms was wrong here — a
+// gap between EVERY request (search, then pressing) is 2 req/sec = 120/min,
+// which tripped a 429 partway through a 100-album run. No UX pressure on a
+// background daily job, so just stay safely under the real limit.
+const REQUEST_GAP_MS = 1050;
 
 const DISCOGS_KEY = process.env.DISCOGS_CONSUMER_KEY;
 const DISCOGS_SECRET = process.env.DISCOGS_CONSUMER_SECRET;
