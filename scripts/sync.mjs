@@ -15,7 +15,10 @@ const FEED_URL = "https://rss.applemarketingtools.com/api/v2/us/music/most-playe
 const DISCOGS_BASE = "https://api.discogs.com";
 const USER_AGENT = "VinylChartLinksSync/1.0";
 const MIN_TRACK_COUNT = 5;
-const MAX_CANDIDATE_POOL_SIZE = 40;
+// Apple's own feed caps at 100, so this just takes the whole filtered chart —
+// this job runs once/day from one place, so there's no per-device fan-out
+// concern here (unlike the client, which used to search Discogs itself).
+const MAX_CANDIDATE_POOL_SIZE = 100;
 const REQUEST_GAP_MS = 500; // 60 req/min budget
 
 const DISCOGS_KEY = process.env.DISCOGS_CONSUMER_KEY;
