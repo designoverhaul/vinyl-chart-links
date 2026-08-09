@@ -9,7 +9,7 @@
 // mismatch here just means one chart album backfills later, not a
 // user-facing correctness issue.
 
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
 // Apple's canonical host. The older rss.applemarketingtools.com only 301s here
 // now, and that redirector intermittently answers 504 — which is what broke
@@ -192,6 +192,16 @@ async function fetchChartCandidates() {
 
 // --- Main ---
 
+async function readExistingLinks() {
+  try {
+    const raw = await readFile("chart-links.json", "utf8");
+    return JSON.parse(raw).links || {};
+  } catch (err) {
+    if (err.code !== "ENOENT") console.warn(`Could not read existing chart-links.json: ${err.message}`);
+    return {};
+  }
+}
+
 async function main() {
   const candidates = await fetchChartCandidates();
   const pool = candidates.slice(0, MAX_CANDIDATE_POOL_SIZE);
@@ -199,6 +209,7 @@ async function main() {
 
   const links = {};
   let matched = 0;
+  let stoppedEarly = false;
 
   for (const album of pool) {
     const title = simplifyTitle(album.name);
@@ -207,6 +218,7 @@ async function main() {
     const hits = await searchMasters(artist, title);
     if (hits === null) {
       console.warn(`Search failed for "${album.name}" -- likely rate-limited, stopping batch early.`);
+      stoppedEarly = true;
       break;
     }
     await sleep(REQUEST_GAP_MS);
@@ -231,16 +243,26 @@ async function main() {
 
   console.log(`Matched ${matched}/${pool.length}`);
 
-  // The workflow commits and pushes whatever lands here, so a run that matched
-  // nothing (Discogs rate-limited from the first request, empty chart feed)
-  // would publish an empty file and strip every client's chart links. Failing
-  // instead leaves the last good chart-links.json in place.
-  if (matched === 0) {
-    throw new Error("Matched 0 albums — refusing to overwrite chart-links.json");
+  // The workflow commits and pushes whatever lands here, so a truncated run
+  // would otherwise publish fewer links than we already knew about and strip
+  // them from every client. A full pass replaces the file outright, which
+  // prunes albums that have dropped off the chart; a run that bailed early
+  // (Discogs rate limit) only layers its results on top of what's there.
+  let output = links;
+  if (stoppedEarly) {
+    const existing = await readExistingLinks();
+    output = { ...existing, ...links };
+    console.log(`Stopped early — merged onto ${Object.keys(existing).length} existing links, ${Object.keys(output).length} total`);
   }
 
-  const output = { generatedAt: new Date().toISOString(), links };
-  await writeFile("chart-links.json", JSON.stringify(output, null, 2) + "\n");
+  if (Object.keys(output).length === 0) {
+    throw new Error("No links to publish — refusing to overwrite chart-links.json");
+  }
+
+  await writeFile(
+    "chart-links.json",
+    JSON.stringify({ generatedAt: new Date().toISOString(), links: output }, null, 2) + "\n"
+  );
 }
 
 main().catch((err) => {
