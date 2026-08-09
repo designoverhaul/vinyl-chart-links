@@ -11,7 +11,10 @@
 
 import { writeFile } from "node:fs/promises";
 
-const FEED_URL = "https://rss.applemarketingtools.com/api/v2/us/music/most-played/100/albums.json";
+// Apple's canonical host. The older rss.applemarketingtools.com only 301s here
+// now, and that redirector intermittently answers 504 — which is what broke
+// this job three days running in Aug 2026.
+const FEED_URL = "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json";
 const DISCOGS_BASE = "https://api.discogs.com";
 const USER_AGENT = "VinylChartLinksSync/1.0";
 const MIN_TRACK_COUNT = 5;
@@ -24,6 +27,7 @@ const MAX_CANDIDATE_POOL_SIZE = 100;
 // which tripped a 429 partway through a 100-album run. No UX pressure on a
 // background daily job, so just stay safely under the real limit.
 const REQUEST_GAP_MS = 1050;
+const RETRY_BASE_DELAY_MS = 2000;
 
 const DISCOGS_KEY = process.env.DISCOGS_CONSUMER_KEY;
 const DISCOGS_SECRET = process.env.DISCOGS_CONSUMER_SECRET;
@@ -41,6 +45,31 @@ function discogsAuthHeader() {
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Apple's feed hosts occasionally answer 5xx or drop the connection. A daily
+// background job has no latency pressure, so absorb those rather than failing
+// the whole run and leaving clients on a stale chart-links.json.
+async function fetchWithRetry(url, { attempts = 4, label = "request" } = {}) {
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      const res = await fetch(url);
+      if (res.ok) return res;
+      if (res.status < 500 && res.status !== 429) {
+        throw new Error(`${label} HTTP ${res.status}`);
+      }
+      lastError = new Error(`${label} HTTP ${res.status}`);
+    } catch (err) {
+      lastError = err;
+    }
+    if (attempt < attempts) {
+      const backoff = RETRY_BASE_DELAY_MS * 2 ** (attempt - 1);
+      console.warn(`${label} failed (${lastError.message}), retrying in ${backoff}ms`);
+      await sleep(backoff);
+    }
+  }
+  throw lastError;
 }
 
 async function discogsGet(path, query) {
@@ -136,14 +165,15 @@ async function popularPressing(masterID) {
 // --- Apple Music chart + iTunes album filter ---
 
 async function fetchChartCandidates() {
-  const feedRes = await fetch(FEED_URL);
-  if (!feedRes.ok) throw new Error(`Apple feed HTTP ${feedRes.status}`);
+  const feedRes = await fetchWithRetry(FEED_URL, { label: "Apple feed" });
   const feed = await feedRes.json();
   const results = feed.feed?.results || [];
 
   const allIDs = results.map((r) => r.id).filter(Boolean);
-  const itunesRes = await fetch(`https://itunes.apple.com/lookup?id=${allIDs.join(",")}`);
-  const itunesData = itunesRes.ok ? await itunesRes.json() : { results: [] };
+  const itunesRes = await fetchWithRetry(`https://itunes.apple.com/lookup?id=${allIDs.join(",")}`, {
+    label: "iTunes lookup",
+  });
+  const itunesData = await itunesRes.json();
   const fullAlbumIDs = new Set(
     (itunesData.results || [])
       .filter((item) => item.collectionType === "Album" && (item.trackCount || 0) >= MIN_TRACK_COUNT)
@@ -200,6 +230,14 @@ async function main() {
   }
 
   console.log(`Matched ${matched}/${pool.length}`);
+
+  // The workflow commits and pushes whatever lands here, so a run that matched
+  // nothing (Discogs rate-limited from the first request, empty chart feed)
+  // would publish an empty file and strip every client's chart links. Failing
+  // instead leaves the last good chart-links.json in place.
+  if (matched === 0) {
+    throw new Error("Matched 0 albums — refusing to overwrite chart-links.json");
+  }
 
   const output = { generatedAt: new Date().toISOString(), links };
   await writeFile("chart-links.json", JSON.stringify(output, null, 2) + "\n");
