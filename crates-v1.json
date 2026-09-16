@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T14:47:26Z",
+  "generatedAt": "2026-09-16T18:49:02Z",
   "crateOrder": [
     "recent",
     "classic_rock",
@@ -43,11 +43,16 @@
             "discogsMasterID": 1826482,
             "frontURL": null,
             "backURL": "https://i.discogs.com/z-iD0dH0nLWNqmahSpvFt7ah0hB0kHdy6SY-ajp3JSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc0/MTM0LTE2MDM4MjY3/MjctNTU2OC5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/2jyxQlTf6LsoXmnzi1y7zGaW3vChAYVcT7-1R1Me2HU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc0/MTM0LTE2MDM4MjY3/MjYtNjg2OC5qcGVn.jpeg",
-            "labelURL": null,
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/5W6Gqkm6NVdM3QZdyNAMgo71D5on5l3QnhHZa73UIdY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc0/MTM0LTE2MDI5Njky/NjUtOTU0NC5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
-            "labelCrop": null
+            "labelCrop": {
+              "x": 0.07530801655808944,
+              "y": 0.0594157479528234,
+              "width": 0.8450497118096575,
+              "height": 0.8450497118096575
+            }
           }
         },
         {
@@ -245,10 +250,15 @@
             "discogsMasterID": 869558,
             "frontURL": null,
             "backURL": "https://i.discogs.com/EMC7RyeHpzsZqf9EJ_CHYzivW-TkThzTrC_4sqar_sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTE2/ODMtMTQ0NDI0NTE4/MC0zMjYzLmpwZWc.jpeg",
-            "discURL": "https://i.discogs.com/x-YyFfK8cg-xoTpjV_02zCkQtEqeb6cGdLb1vLYu-JY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTE2/ODMtMTY0NTE3MzUw/NS00OTU1LmpwZWc.jpeg",
+            "discURL": "https://i.discogs.com/2zCMwRbySR2sQ17dgRaQWIkmbEgVt9K1VwlOiiFy5sI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTE2/ODMtMTQ0NDI0NTE5/Ny00MjY4LmpwZWc.jpeg",
             "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.015,
+              "y": 0.015,
+              "width": 0.97,
+              "height": 0.97
+            },
             "labelCrop": null
           }
         },
@@ -277,11 +287,11 @@
               0.2,
               1.0
             ],
-            "appleMusicID": null,
+            "appleMusicID": "1583866197",
             "musicBrainzID": null,
             "discogsReleaseID": 28704172,
             "discogsMasterID": 2510737,
-            "frontURL": "https://i.discogs.com/PgSfVc3K4iHw8e37NkM056ljAhG8Kcqtk4FVBfJmKsE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjAz/MjU2LTE2NDUxNjcw/MDQtMjMwOC5qcGVn.jpeg",
+            "frontURL": null,
             "backURL": "https://i.discogs.com/SY2Ma90vtelgLoUfHsAZ-V__iX6RVvZbK97Vsm7buFA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzA0/MTcyLTE2OTg5OTU2/NDMtNjc0NC5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/CGW-EHoHsDsH-zdwlLZhcvK6Kfv8Qzew9izzipFioHY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzA0/MTcyLTE2OTg5OTU2/NDItMTIyMi5qcGVn.jpeg",
             "labelURL": null,
@@ -1185,11 +1195,11 @@
               0.2,
               1.0
             ],
-            "appleMusicID": null,
+            "appleMusicID": "1474669063",
             "musicBrainzID": null,
             "discogsReleaseID": 34211053,
             "discogsMasterID": 4062439,
-            "frontURL": "https://i.discogs.com/LMbFU79kfeKbKuFnOkuUa5jdtr4HJveLY7nraRdR-H8/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUw/MjM2LTE3MDQ5MTk5/NDAtMjEzNi5qcGVn.jpeg",
+            "frontURL": null,
             "backURL": "https://i.discogs.com/MUwNeZQjCqQUk86JsXuq9X_vKrCWQ3thk99dYQxz5bM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjEx/MDUzLTE3NDkzOTMy/ODItNjMzOC5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/r94ByLnB4LYecfM0omFfXukYxUpaVc7lO_oxWn4ofqs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjEx/MDUzLTE3NDkzOTMy/ODMtOTM3NS5qcGVn.jpeg",
             "labelURL": null,
@@ -1223,11 +1233,11 @@
               0.2,
               1.0
             ],
-            "appleMusicID": null,
+            "appleMusicID": "1655349115",
             "musicBrainzID": null,
             "discogsReleaseID": 26523590,
             "discogsMasterID": 3028427,
-            "frontURL": "https://i.discogs.com/pDXktrh_WqejIggbZei3kw_KeL-Lq9JCAYH8ZHMh8f8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIz/MTg1LTE2Nzk2MjY5/NzYtNzUwNS5qcGVn.jpeg",
+            "frontURL": null,
             "backURL": "https://i.discogs.com/f8by3VIqXYEPznaVmT6ftT_IZtdDP_mhRJQSWsNKLBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIz/NTkwLTE3MzQ1Mzc2/MDMtOTUzNS5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/JDmj7dlvYQUrl3K8LnMW5ldgm0NzluamD57pKwwCK1o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIz/NTkwLTE3MzQ1Mzgy/NTgtODYxNi5qcGVn.jpeg",
             "labelURL": null,
@@ -1267,11 +1277,11 @@
               0.2,
               1.0
             ],
-            "appleMusicID": null,
+            "appleMusicID": "1586490315",
             "musicBrainzID": null,
             "discogsReleaseID": 27119643,
             "discogsMasterID": 1326345,
-            "frontURL": "https://i.discogs.com/poWfS4D13BG-5czgP8YJd39N_loRp3ZHqsUcGiQLh-Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM0/NDkzLTE1MTk3NzI4/MzQtMzQ1My5qcGVn.jpeg",
+            "frontURL": null,
             "backURL": "https://i.discogs.com/tSV4WG0xhAHQLpgVnSpcJQRkBJ38r7J8LFHmMghKHsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE5/NjQzLTE2ODY0Mzcy/OTYtNjMwMy5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/R7jEsd4542hquGRpx4cXiRmwAGcXAFwQJ2luqnl5_K0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE5/NjQzLTE2ODY0Mzcy/MTctNjIwMy5qcGVn.jpeg",
             "labelURL": null,
@@ -1305,11 +1315,11 @@
               0.2,
               1.0
             ],
-            "appleMusicID": null,
+            "appleMusicID": "1586471742",
             "musicBrainzID": null,
             "discogsReleaseID": 19240048,
             "discogsMasterID": 2181469,
-            "frontURL": "https://i.discogs.com/oV4hZZh7UqmnVkSlGkJazn5IjifhVZzXO0eaIBLFoNw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI0/MTUxLTE2MjQ3Mjcx/MzUtNTc5Mi5qcGVn.jpeg",
+            "frontURL": null,
             "backURL": "https://i.discogs.com/LC13Q32cXhoeKeZ2GFnIWQY2UhLCjmFxipgv59Q5ACM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQw/MDQ4LTE2MjU4NTgy/NTQtNzY5OC5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/AqBj3YbDT9DiLjCSOUIRnjWOOjhLfvv9jAjrvL8O70k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQw/MDQ4LTE2MjU4NTgy/NTgtMTMxMi5qcGVn.jpeg",
             "labelURL": null,
@@ -1879,11 +1889,11 @@
               0.2,
               1.0
             ],
-            "appleMusicID": null,
+            "appleMusicID": "1728945682",
             "musicBrainzID": null,
             "discogsReleaseID": 30306854,
             "discogsMasterID": 3447146,
-            "frontURL": "https://i.discogs.com/tePvhMBiTDEgyM21ZO82S1xDCrUCJPZv_WuUjmGwq0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjk1/NzIxLTE3MTIyNzMy/NTAtMTQ3MC5qcGVn.jpeg",
+            "frontURL": null,
             "backURL": "https://i.discogs.com/dbX0eQROdd-igOUQVKTKbY9shtN7cHQA0pX4H5nOh0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA2/ODU0LTE3MTI5MTQ0/OTEtNTAwMy5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/UrJ31ulKJua1jHLQp7pXrxHi0Z6qDHBS5QXvhYTmsnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA2/ODU0LTE3MTI5MTQ0/OTItODc0Mi5qcGVn.jpeg",
             "labelURL": null,
