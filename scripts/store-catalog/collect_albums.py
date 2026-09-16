@@ -258,13 +258,17 @@ def main() -> None:
         if am.get("appleMusicID"):
             fields["Apple Music ID"] = am["appleMusicID"]
         if am.get("frontURL") or dg.get("frontURL"):
-            fields["Front URL"] = am.get("frontURL") or dg.get("frontURL")
+            # Only store Front URL when there is no Apple Music ID.
+            if not (am.get("appleMusicID") or fields.get("Apple Music ID")):
+                fields["Front URL"] = am.get("frontURL") or dg.get("frontURL")
         if dg.get("backURL"):
             fields["Back URL"] = dg["backURL"]
         if disc_url:
             fields["Disc URL"] = disc_url
-        if label_url:
+            fields.pop("Label URL", None)
+        if label_url and not disc_url:
             fields["Label URL"] = label_url
+            fields.pop("Disc URL", None)
         if dg.get("discogsReleaseID"):
             fields["Discogs Release ID"] = dg["discogsReleaseID"]
         if dg.get("discogsMasterID"):
