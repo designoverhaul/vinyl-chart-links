@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T14:32:26Z",
+  "generatedAt": "2026-09-16T14:41:44Z",
   "crateOrder": [
     "recent",
     "classic_rock",
@@ -12,6 +12,88 @@
       "id": "recent",
       "name": "Recent",
       "items": [
+        {
+          "kind": "record",
+          "album": {
+            "title": "songs",
+            "artistName": "Adrianne Lenker",
+            "year": 2020,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1526437437",
+            "musicBrainzID": null,
+            "discogsReleaseID": 16074134,
+            "discogsMasterID": 1826482,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/z-iD0dH0nLWNqmahSpvFt7ah0hB0kHdy6SY-ajp3JSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc0/MTM0LTE2MDM4MjY3/MjctNTU2OC5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/2jyxQlTf6LsoXmnzi1y7zGaW3vChAYVcT7-1R1Me2HU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc0/MTM0LTE2MDM4MjY3/MjYtNjg2OC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Bright Future",
+            "artistName": "Adrianne Lenker",
+            "year": 2024,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1721534468",
+            "musicBrainzID": null,
+            "discogsReleaseID": 30099599,
+            "discogsMasterID": 3430172,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/RJrSgkcGdkaJK5e8ewPmSENkhtHVqlpwlk96m1u7BYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3NDE5NjI2/ODgtMjgyMC5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/pIdr7explOUmJDfKSHiNEb6b7_jIYLoAZsIp3VVNevU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMy/OTAtMjc5Ny5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Adrianne Lenker",
+          "dividerAlignment": "leading",
+          "dividerCompact": false
+        },
         {
           "kind": "record",
           "album": {
@@ -91,7 +173,7 @@
         {
           "kind": "divider",
           "dividerName": "Arctic Monkeys",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -211,7 +293,7 @@
         {
           "kind": "divider",
           "dividerName": "Beach House",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -293,7 +375,89 @@
         {
           "kind": "divider",
           "dividerName": "Beyonc\u00e9",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "U.F.O.F.",
+            "artistName": "Big Thief",
+            "year": 2019,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1452026004",
+            "musicBrainzID": null,
+            "discogsReleaseID": 13570466,
+            "discogsMasterID": 1542369,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/WY5LbnyJQ0Pp8ohEKv2a_aoNGw4cExI37N_flEeeYHw/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcw/NDY2LTE2MzEwNjM4/MjEtMjY5My5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/jfuFUs10QLzMYZu0iGMr9JitvqzkdOUx4XLS3taS_wk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcw/NDY2LTE2MzEwNjM4/MjQtNDE4OS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Dragon New Warm Mountain I Believe In You",
+            "artistName": "Big Thief",
+            "year": 2022,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1591284600",
+            "musicBrainzID": null,
+            "discogsReleaseID": 21972565,
+            "discogsMasterID": 2501125,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/tYs-LAIQgst_QvsTK3g9aZVEszb4hxCEqhvBBgoD1aQ/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtMjQzMy5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/exfpCul_9UsKdM_3porfoeDG6zFT7pEhAcO-LwlvGgI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI2/NjktMTE1Ni5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Big Thief",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -413,7 +577,7 @@
         {
           "kind": "divider",
           "dividerName": "Billie Eilish",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -495,7 +659,7 @@
         {
           "kind": "divider",
           "dividerName": "Bj\u00f6rk",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -539,7 +703,171 @@
         {
           "kind": "divider",
           "dividerName": "Black Country, New Road",
+          "dividerAlignment": "center",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "CRASH (Deluxe)",
+            "artistName": "Charli xcx",
+            "year": 2022,
+            "genre": "Pop",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1615112991",
+            "musicBrainzID": null,
+            "discogsReleaseID": 22531094,
+            "discogsMasterID": 2554859,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/kDBJEEWswGbZsv1tUzQ8O_XE85VcZL_9iZIUUevcbvQ/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMx/MDk0LTE3NTQyMzA1/NzAtNTUxMS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/Lh6WrEyHtcwSDvO6IDSHpVOvHAr91OjATRrkZDpYDKE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMx/MDk0LTE3NTQyMzA1/NjktODM0OC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "BRAT",
+            "artistName": "Charli xcx",
+            "year": 2024,
+            "genre": "Electronic",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1739079974",
+            "musicBrainzID": null,
+            "discogsReleaseID": 30373688,
+            "discogsMasterID": 3505440,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/qnpRdlj2EcgRTlruGiZGvgNEKturMT0L2AVNO-MLOkk/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYz/MTktNzM0Ni5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/2hgETkVH2EQ2cKDloKJPbXEVSl90YH-dIcT8cxpGFn8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzktNjYxOC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Charli xcx",
           "dividerAlignment": "trailing",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Sling",
+            "artistName": "Clairo",
+            "year": 2021,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1571219341",
+            "musicBrainzID": null,
+            "discogsReleaseID": 37908876,
+            "discogsMasterID": 2215273,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/Ht-qP4GNn0FJ8T1Y24N2RaynV9OUVKpcpDIE8sFVwxM/rs:fit/g:sm/q:90/h:286/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTA4/ODc2LTE3ODU1MzEx/NTUtOTU4OS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/9ACCB6H62Xbo4EKT6kYRpx-da0QDo6K3qOe4ladYwAM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTA4/ODc2LTE3ODQ3Mzk5/NDAtOTUyMy5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Charm",
+            "artistName": "Clairo",
+            "year": 2024,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1742301413",
+            "musicBrainzID": null,
+            "discogsReleaseID": 31208539,
+            "discogsMasterID": 3540664,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/1Xwf-q5GrZStw8Q7WvZ9axkA0_SXcKOocp1dOCIFJdU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA4/NTM5LTE3MjA4NzIy/MTgtNzMxMS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/IlwV387Q1Dzeduf6NziqA965-XADnWxcS8iM-JI3PF0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA4/NTM5LTE3MjA4NzIy/MTgtMjEwOC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Clairo",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -583,7 +911,51 @@
         {
           "kind": "divider",
           "dividerName": "Doja Cat",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Romance (Deluxe Edition)",
+            "artistName": "Fontaines D.C.",
+            "year": 2024,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1803604510",
+            "musicBrainzID": null,
+            "discogsReleaseID": 31541038,
+            "discogsMasterID": 3575920,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/VmsXZ6xI22KDm5HK49KE3xMhcsnQZD5-MZMfAFHPIS8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQx/MDM4LTE3MjY2ODM5/NjctMjk5NS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/xzinA-ebn5EBiJi01NBcNRa_GbKcv9-AUxFDMnYFt4M/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQx/MDM4LTE3MjY2ODM5/NzktMzg3Ni5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Fontaines D.C.",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -627,7 +999,7 @@
         {
           "kind": "divider",
           "dividerName": "Jon Batiste",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -747,7 +1119,7 @@
         {
           "kind": "divider",
           "dividerName": "Kendrick Lamar",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -867,7 +1239,7 @@
         {
           "kind": "divider",
           "dividerName": "Lana Del Rey",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -949,7 +1321,171 @@
         {
           "kind": "divider",
           "dividerName": "Lucy Dacus",
+          "dividerAlignment": "leading",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Mercurial World",
+            "artistName": "Magdalena Bay",
+            "year": 2021,
+            "genre": "Indie Pop",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1570541671",
+            "musicBrainzID": null,
+            "discogsReleaseID": 21353620,
+            "discogsMasterID": 2332264,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/IXTsXkr4P7-XNPUVcL9OAncm5DMiMdc6mUss8EKCIHQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzUz/NjIwLTE3NDcwODM4/MjgtMjIzMy5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/TuVJ2fInFfqeCQEpWDpKdFjUw0oEuqKj5ZNDH4lS18E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzUz/NjIwLTE3NDcwODM4/NDQtNDQ3NS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Imaginal Disk",
+            "artistName": "Magdalena Bay",
+            "year": 2024,
+            "genre": "Indie Pop",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1751414757",
+            "musicBrainzID": null,
+            "discogsReleaseID": 31546321,
+            "discogsMasterID": 3577219,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/zalpTFeaWATR4JAhzHh6iNRUQTvkUklhbs5ayKtYvi8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ2/MzIxLTE3MjQzNDQz/NTktNjkxMC5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/XZ0aX5YtQpagC-sKh2plViPY5TuAQh7anqaRvJ2b62c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ2/MzIxLTE3MjQzNDQ1/NTQtNTExNi5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Magdalena Bay",
           "dividerAlignment": "center",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Be the Cowboy",
+            "artistName": "Mitski",
+            "year": 2018,
+            "genre": "Indie Rock",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1373892692",
+            "musicBrainzID": null,
+            "discogsReleaseID": 12339557,
+            "discogsMasterID": 1406567,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/kbVu_VIjCESd8fk1k8_KwneA7gY7RhC-K05D1Fwwqso/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM5/NTU3LTE1MzMzMTU0/ODMtNjc3NS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/2uKSSRcftPxU1lcAD2LOnPrg5CxiGibXLVdbMM7jEGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM5/NTU3LTE1MzQ1OTcx/NDctNzY3Mi5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "The Land Is Inhospitable and So Are We",
+            "artistName": "Mitski",
+            "year": 2023,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1697335341",
+            "musicBrainzID": null,
+            "discogsReleaseID": 28302358,
+            "discogsMasterID": 3239857,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/YhbNfxlhZzp-o8_QmptVooj4Umqtpr0M6TCuW_4kG98/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzAy/MzU4LTE2OTUzMzU0/OTQtMzYwMS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/XsENcnQqHOKi1BtcV5oaj-YhqlZd5KtqQ_wDuph0MjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzAy/MzU4LTE3MzQ3OTUx/MTItMjY5Ni5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Mitski",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -1031,7 +1567,7 @@
         {
           "kind": "divider",
           "dividerName": "Olivia Rodrigo",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -1113,7 +1649,89 @@
         {
           "kind": "divider",
           "dividerName": "SZA",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Daddy's Home",
+            "artistName": "St. Vincent",
+            "year": 2021,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1552955481",
+            "musicBrainzID": null,
+            "discogsReleaseID": 18772822,
+            "discogsMasterID": 2106202,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/GYf9Jbv74yAfeNlnkb9pMhlBP8UC8WrLzpfBpETu4aI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcy/ODIyLTE2MjE5ODc4/NjYtNDIxMC5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/QjRCxcodKYUzMvNfdBH9qkOHjbLbTEOp8BRv5-11uFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcy/ODIyLTE2MjEzNTc2/MjItNDUyMC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "All Born Screaming",
+            "artistName": "St. Vincent",
+            "year": 2024,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1729549170",
+            "musicBrainzID": null,
+            "discogsReleaseID": 30506320,
+            "discogsMasterID": 3468085,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/nsktYkgs7ztzM98vm92p_V81QT-C6k3KB2hdbSB7O_4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MzIwLTE3MTQxNzg1/ODQtNzM3Mi5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/bQ8tLnryHEEgVYgDmcMcTrgisoS2r_1_azD1CAeHtAQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MzIwLTE3MTQxNzg1/NjMtNDA4OS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "St. Vincent",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -1233,7 +1851,7 @@
         {
           "kind": "divider",
           "dividerName": "The Weeknd",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -1277,7 +1895,171 @@
         {
           "kind": "divider",
           "dividerName": "Vampire Weekend",
+          "dividerAlignment": "center",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Saint Cloud",
+            "artistName": "Waxahatchee",
+            "year": 2020,
+            "genre": "Rock",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1839033130",
+            "musicBrainzID": null,
+            "discogsReleaseID": 15000311,
+            "discogsMasterID": 1705356,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/daILSBKnrxWlnDcCn8Q3GktUexPRxnPLI9zXq5GcGM0/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAw/MzExLTE1ODkxMDUy/NTktMzY3NS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/KcA8fK7fjQwVHZgWJKL842meaJ0POQYaF_TzFvOvXl8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAw/MzExLTE1ODkxMDUy/NjItMjgzMC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Tigers Blood",
+            "artistName": "Waxahatchee",
+            "year": 2024,
+            "genre": "Folk",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1772253426",
+            "musicBrainzID": null,
+            "discogsReleaseID": 30136172,
+            "discogsMasterID": 3430967,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/qf79O703AADL0sikFLPw7Km3He7z1ov6CyAqkzYctVs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM2/MTcyLTE3MTA3OTAy/NTktMzAxMi5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/ROVCLxDiH3DhdoOmc6DHg2XFINRZkgaHHbysmCIA2yU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM2/MTcyLTE3MTA3OTAy/NjAtMTc4MS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Waxahatchee",
           "dividerAlignment": "trailing",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Titanic Rising",
+            "artistName": "Weyes Blood",
+            "year": 2019,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1450550344",
+            "musicBrainzID": null,
+            "discogsReleaseID": 13748752,
+            "discogsMasterID": 1527838,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/R5p-5VRZD1bQM7kB-xd2oYb7lMNK9m-x7b-L6Fu93a0/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ4/NzUyLTE1NjAyODI2/MTQtMzE0NS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/z1pdJ-iOMqaBR6UZ7XBWpVXVd-h_ZHaJ_a8EbQBjKiY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ4/NzUyLTE1NjAyODI2/MTktMjQ4OC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "And In The Darkness, Hearts Aglow",
+            "artistName": "Weyes Blood",
+            "year": 2022,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1643062187",
+            "musicBrainzID": null,
+            "discogsReleaseID": 25203922,
+            "discogsMasterID": 2866813,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/w5Bdkuk5lWxiDorVNST6NP7KhvTGtNYJbue5V0tE9ok/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjAz/OTIyLTE2Njg3OTM2/MjctOTYyMS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/SMxteDoA7JX_PF2DwWtTVrmp-eMyTS37RmmiXs0hR7k/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjAz/OTIyLTE2Njg3OTM2/MzAtMjI3Ni5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Weyes Blood",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         }
       ]
