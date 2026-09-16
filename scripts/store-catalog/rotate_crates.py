@@ -106,6 +106,9 @@ def rotate_crate(tok: str, base: str, crate: str, all_albums: list[dict], rng: r
     if not shelved:
         print(f"  {crate}: empty — skip")
         return 0, 0
+    if not pool:
+        print(f"  {crate}: no pool inventory — skip (run collect_albums.py first)")
+        return 0, 0
 
     target = max(1, int(round(len(shelved) * FRACTION)))
     blocks = artist_blocks(shelved)
