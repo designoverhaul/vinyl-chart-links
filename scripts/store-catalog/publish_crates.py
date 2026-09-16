@@ -84,12 +84,41 @@ def parse_rgba(s: str | None) -> list[float]:
         return [0.2, 0.2, 0.2, 1.0]
 
 
+def parse_crop(raw) -> dict | None:
+    """Accept JSON string or already-parsed dict with x,y,width,height."""
+    if not raw:
+        return None
+    if isinstance(raw, dict):
+        data = raw
+    else:
+        try:
+            data = json.loads(raw)
+        except (TypeError, json.JSONDecodeError):
+            return None
+    try:
+        return {
+            "x": float(data["x"]),
+            "y": float(data["y"]),
+            "width": float(data["width"]),
+            "height": float(data["height"]),
+        }
+    except (KeyError, TypeError, ValueError):
+        return None
+
+
 def album_dto(fields: dict) -> dict:
     disc = fields.get("Disc URL")
     label = fields.get("Label URL")
+    disc_crop = parse_crop(fields.get("Disc Crop"))
+    label_crop = parse_crop(fields.get("Label Crop"))
     # Disc ↔ Label mutex — prefer Disc.
     if disc:
         label = None
+        label_crop = None
+    # Front URL is optional; apps prefer Apple Music ID for covers.
+    front = fields.get("Front URL") or None
+    if fields.get("Apple Music ID"):
+        front = None
     return {
         "title": fields.get("Title") or "",
         "artistName": fields.get("Artist Name") or "",
@@ -102,10 +131,13 @@ def album_dto(fields: dict) -> dict:
         "musicBrainzID": fields.get("MusicBrainz ID") or None,
         "discogsReleaseID": int(fields["Discogs Release ID"]) if fields.get("Discogs Release ID") else None,
         "discogsMasterID": int(fields["Discogs Master ID"]) if fields.get("Discogs Master ID") else None,
-        "frontURL": fields.get("Front URL") or None,
+        "frontURL": front,
         "backURL": fields.get("Back URL") or None,
         "discURL": disc or None,
         "labelURL": label or None,
+        "backCrop": parse_crop(fields.get("Back Crop")),
+        "discCrop": disc_crop,
+        "labelCrop": label_crop,
     }
 
 
