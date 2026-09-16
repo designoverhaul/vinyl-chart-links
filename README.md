@@ -10,6 +10,17 @@ The app fetches this file directly (unauthenticated `raw.githubusercontent.com` 
 device independently querying Discogs — Discogs auth is a single app-wide credential shared by every
 install, so centralizing the search here avoids each device re-discovering the same matches.
 
+## crates-v1.json
+
+Published catalog for all four record-store crates (`recent`, `classic_rock`, `80s`, `90s`).
+
+Generated from the **Vinyl Catalog** Airtable base by Grokbot (`scripts/store-catalog/`).
+The iOS app fetches this file (with a bundled fallback) instead of calling Airtable
+or scraping Discogs/iTunes charts.
+
+Rotation: GitHub Action [`.github/workflows/rotate-crates.yml`](.github/workflows/rotate-crates.yml)
+runs every other day (~⅛ of each crate), then commits an updated snapshot.
+
 ## image-manifest.json
 
 Manually curated (not auto-generated). The app's DEBUG-only Discogs Image Curator tool lets the

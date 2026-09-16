@@ -1,0 +1,41 @@
+name: Rotate store crates
+
+on:
+  schedule:
+    # Every other day at 07:00 UTC (~⅛ of each crate)
+    - cron: "0 7 */2 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rotate Airtable crates and publish crates-v1.json
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: appBBdksyoPp31wPr
+        run: |
+          set -euo pipefail
+          python3 scripts/store-catalog/rotate_crates.py --publish \
+            --base "${AIRTABLE_BASE_ID}"
+          # publish_crates writes next to the script; copy to repo root for CDN
+          if [ -f scripts/store-catalog/crates-v1.json ]; then
+            cp scripts/store-catalog/crates-v1.json ./crates-v1.json
+          fi
+
+      - name: Commit crates-v1.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add crates-v1.json
+          git diff --staged --quiet && echo "No changes" || git commit -m "Rotate store crates"
+          git push
