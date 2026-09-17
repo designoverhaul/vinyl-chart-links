@@ -135,7 +135,6 @@ def rotate_crate(tok: str, base: str, crate: str, all_albums: list[dict], rng: r
         clean = [r for r in block if r["id"] not in remove_ids]
         add.extend(clean)
 
-    max_sort = max((int(r["fields"].get("Sort Order") or 0) for r in shelved), default=0)
     updates: list[dict] = []
     for r in remove:
         updates.append(
@@ -148,7 +147,7 @@ def rotate_crate(tok: str, base: str, crate: str, all_albums: list[dict], rng: r
                 },
             }
         )
-    for i, r in enumerate(add[:need]):
+    for r in add[:need]:
         times = int(r["fields"].get("Times Shelved") or 0) + 1
         updates.append(
             {
@@ -156,7 +155,6 @@ def rotate_crate(tok: str, base: str, crate: str, all_albums: list[dict], rng: r
                 "fields": {
                     "Status": "in_crate",
                     "Crate": crate,
-                    "Sort Order": max_sort + 1 + i,
                     "Last Shelved At": now,
                     "Times Shelved": times,
                 },
