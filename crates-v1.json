@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-18T19:59:47Z",
+  "generatedAt": "2026-09-18T22:23:10Z",
   "crateOrder": [
     "classics",
     "modern_rock",
@@ -444,7 +444,7 @@
         {
           "kind": "divider",
           "dividerName": "Bruce Springsteen",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -574,7 +574,7 @@
         {
           "kind": "divider",
           "dividerName": "Cream",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -661,7 +661,7 @@
         {
           "kind": "divider",
           "dividerName": "Duran Duran",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -781,7 +781,7 @@
         {
           "kind": "divider",
           "dividerName": "Fleetwood Mac",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -1059,7 +1059,7 @@
         {
           "kind": "divider",
           "dividerName": "Guns N' Roses",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -1189,7 +1189,7 @@
         {
           "kind": "divider",
           "dividerName": "Jimi Hendrix",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -1390,7 +1390,7 @@
         {
           "kind": "divider",
           "dividerName": "Led Zeppelin",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -1540,7 +1540,7 @@
         {
           "kind": "divider",
           "dividerName": "Madonna",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -2182,7 +2182,7 @@
         {
           "kind": "divider",
           "dividerName": "The Beatles",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -2269,7 +2269,7 @@
         {
           "kind": "divider",
           "dividerName": "The Cars",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -2318,7 +2318,7 @@
         {
           "kind": "divider",
           "dividerName": "The Clash",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         }
       ]
@@ -2763,7 +2763,7 @@
         {
           "kind": "divider",
           "dividerName": "Big Thief",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -2812,7 +2812,7 @@
         {
           "kind": "divider",
           "dividerName": "Black Country, New Road",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -2962,7 +2962,7 @@
         {
           "kind": "divider",
           "dividerName": "Blind Melon",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -3059,7 +3059,7 @@
         {
           "kind": "divider",
           "dividerName": "Def Leppard",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -3276,7 +3276,7 @@
         {
           "kind": "divider",
           "dividerName": "Fontaines D.C.",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -3358,7 +3358,7 @@
         {
           "kind": "divider",
           "dividerName": "Fugazi",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -3440,7 +3440,7 @@
         {
           "kind": "divider",
           "dividerName": "Green Day",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -3532,7 +3532,7 @@
         {
           "kind": "divider",
           "dividerName": "Lucy Dacus",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -4130,7 +4130,7 @@
         {
           "kind": "divider",
           "dividerName": "Pearl Jam",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -4270,7 +4270,7 @@
         {
           "kind": "divider",
           "dividerName": "Prince",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -4428,7 +4428,7 @@
         {
           "kind": "divider",
           "dividerName": "R.E.M.",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -4563,7 +4563,7 @@
         {
           "kind": "divider",
           "dividerName": "Radiohead",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -4765,7 +4765,7 @@
         {
           "kind": "divider",
           "dividerName": "Red Hot Chili Peppers",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         }
       ]
@@ -4801,48 +4801,10 @@
             ],
             "appleMusicID": "1447452167",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 13117602,
+            "discogsMasterID": 1474682,
             "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/RvKgOPvrx16ih2Bp14mqK6LCexSLAwPHy5nia5BYpjw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg5/MzY3LTE2MzQwMDcz/NzItMTcxMi5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "i am > i was",
-            "artistName": "21 Savage",
-            "year": 2018,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1446918493",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/-N0LSPdYhGFP59C3cHiSCOcs_ylqMpzlNyxiRulmNic/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE3/NjAyLTE2MDkwMDk5/NjUtOTkxMi5qcGVn.jpeg",
             "discURL": null,
             "labelURL": "https://i.discogs.com/RvKgOPvrx16ih2Bp14mqK6LCexSLAwPHy5nia5BYpjw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg5/MzY3LTE2MzQwMDcz/NzItMTcxMi5qcGVn.jpeg",
             "backCrop": null,
@@ -4877,48 +4839,10 @@
             ],
             "appleMusicID": "1534263780",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 17277640,
+            "discogsMasterID": 1923165,
             "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "SAVAGE MODE II",
-            "artistName": "21 Savage",
-            "year": 2020,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1534263780",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/zuIWzKnd-S7v-DS3hOqa6mOfHorbwonhTRXraUqcq84/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc3/NjQwLTE2MTI3MzI5/MzktNzI3MC5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -4953,46 +4877,8 @@
             ],
             "appleMusicID": "1725240183",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/0VhLURJExsCAEHAiqPTSEAYj77jtzF5MmmLDlkp2W-M/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjg4/ODctMTM4NjE5Mzc0/OC04NjExLmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "american dream",
-            "artistName": "21 Savage",
-            "year": 2024,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1724494274",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 30096167,
+            "discogsMasterID": 3422461,
             "frontURL": null,
             "backURL": null,
             "discURL": null,
@@ -5035,10 +4921,10 @@
             ],
             "appleMusicID": "581997129",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 4204639,
+            "discogsMasterID": 511822,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/M3PoBAi0JhiJgciBCDFfW9bP7FplaoWIn7ZOdM5GUHY/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDQ2/MzktMTUyMjAxODEy/Ni01MjYwLmpwZWc.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -5190,7 +5076,7 @@
         {
           "kind": "divider",
           "dividerName": "Beyonc\u00e9",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -5239,7 +5125,7 @@
         {
           "kind": "divider",
           "dividerName": "Blood Orange",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -5269,12 +5155,12 @@
             ],
             "appleMusicID": "1368156323",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 12896305,
+            "discogsMasterID": 1348255,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/w-xEDBT4CqDKVPkII4VBg6owbd-Cc0y0gjzpvj8GVuA/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk2/MzA1LTE3NDM1NjEy/MDctMjcyMi5qcGVn.jpeg",
             "discURL": null,
-            "labelURL": null,
+            "labelURL": "https://i.discogs.com/1zeGr8Cc_yE5cLF1DKMhf5MB8SVzqYcRmq5aATq8fS0/rs:fit/g:sm/q:90/h:600/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk2/MzA1LTE3NDM1NjEx/OTUtODEwNC5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -5307,10 +5193,10 @@
             ],
             "appleMusicID": "1821526317",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 35321602,
+            "discogsMasterID": 3977024,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/cvDZUrNik4m0x7b9Ja2nJzTaT5UXTxAas34yz5j578Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzIx/NjAyLTE3ODA1MjQ4/ODQtMzYyOC5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -5321,46 +5207,8 @@
         {
           "kind": "divider",
           "dividerName": "Cardi B",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Freudian",
-            "artistName": "Daniel Caesar",
-            "year": 2017,
-            "genre": "R&B/Soul",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1265893523",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
         },
         {
           "kind": "record",
@@ -5389,10 +5237,10 @@
             ],
             "appleMusicID": "1799080774",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 11178947,
+            "discogsMasterID": 1275484,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/tuDqLNMUkKSbKGNgiH8354SkKksBJA_c3ZHyKEKT3ao/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc4/OTQ3LTE1MTk2MDMy/NjgtNDkyNC5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -5427,46 +5275,8 @@
             ],
             "appleMusicID": "1799080239",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/C4JE8p5DsB9KuLOzd8Vcm0B8ZQg_6yQx_pCpIJR2VIg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/MzA3LTE1NzczNjg0/NTMtNTM5MC5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/uJYK-q48Cz9dKL5a29FUeetgqR4O3KUCdKsSwkGfdug/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/MzA3LTE1NzY5ODgz/MTYtNzY0Ny5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "CASE STUDY 01",
-            "artistName": "Daniel Caesar",
-            "year": 2019,
-            "genre": "R&B/Soul",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1799080239",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 14510307,
+            "discogsMasterID": 1649857,
             "frontURL": null,
             "backURL": "https://i.discogs.com/C4JE8p5DsB9KuLOzd8Vcm0B8ZQg_6yQx_pCpIJR2VIg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/MzA3LTE1NzczNjg0/NTMtNTM5MC5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/uJYK-q48Cz9dKL5a29FUeetgqR4O3KUCdKsSwkGfdug/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/MzA3LTE1NzY5ODgz/MTYtNzY0Ny5qcGVn.jpeg",
@@ -5503,46 +5313,8 @@
             ],
             "appleMusicID": "1671667136",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/AyblXFzpAVZ1Xo21micJg_DaJ3VdNmrY8ajjsFWOMtQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg4/MjQ4LTE2ODEwNjM1/NDItNDE4OS5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/eXo6HqRYvmrcwLkSH2nY3pMMyR3MbU1SkWwW9jj81xQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg4/MjQ4LTE2ODEwNjM1/NDItMzUyNi5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "NEVER ENOUGH",
-            "artistName": "Daniel Caesar",
-            "year": 2023,
-            "genre": "R&B/Soul",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1671667136",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 26688248,
+            "discogsMasterID": 3048608,
             "frontURL": null,
             "backURL": "https://i.discogs.com/AyblXFzpAVZ1Xo21micJg_DaJ3VdNmrY8ajjsFWOMtQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg4/MjQ4LTE2ODEwNjM1/NDItNDE4OS5qcGVn.jpeg",
             "discURL": null,
@@ -5555,7 +5327,7 @@
         {
           "kind": "divider",
           "dividerName": "Daniel Caesar",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -5686,7 +5458,7 @@
         {
           "kind": "divider",
           "dividerName": "Drake",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -5730,7 +5502,7 @@
         {
           "kind": "divider",
           "dividerName": "Frank Ocean",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -5760,8 +5532,8 @@
             ],
             "appleMusicID": "1017070152",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 22978199,
+            "discogsMasterID": 862274,
             "frontURL": null,
             "backURL": "https://i.discogs.com/e9wjwxdbvQt6oO1ou0qXr2Qdln0DjmmMRwrJUNU6WKo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjky/NjUtMTM2OTk1MzYz/NS0xNTg0LmpwZWc.jpeg",
             "discURL": null,
@@ -5774,7 +5546,7 @@
         {
           "kind": "divider",
           "dividerName": "Future",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -5804,10 +5576,10 @@
             ],
             "appleMusicID": "1600766204",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 6736792,
+            "discogsMasterID": 767810,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/lSaLmKr-BvRQEozNJnL4fbiYpCdQKVpPLyM8Bhke-gE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzY3/OTItMTYyMDA0ODg2/MS01MDQzLmpwZWc.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -5818,7 +5590,7 @@
         {
           "kind": "divider",
           "dividerName": "J. Cole",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -5848,10 +5620,10 @@
             ],
             "appleMusicID": "1826343589",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
+            "discogsReleaseID": 36909519,
             "discogsMasterID": null,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/Ru2dp2-52Jtn8ejJXfjPrryqqgr1j7DzKlJesdpd1KE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/NTE5LTE3NzQ3NDUx/MTAtODE3Ny5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -6061,10 +5833,10 @@
             ],
             "appleMusicID": "1274598012",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 28076602,
+            "discogsMasterID": 1268238,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/bxsZI7hk5AWBgRW8tu-CxwB6GUBINCSOm7yWeBMkO0E/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDc2/NjAyLTE2OTMwNjU4/NzItMTQ2OC5wbmc.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -6075,7 +5847,7 @@
         {
           "kind": "divider",
           "dividerName": "Lil Uzi Vert",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -6200,7 +5972,7 @@
         {
           "kind": "divider",
           "dividerName": "Mac Miller",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -6230,46 +6002,8 @@
             ],
             "appleMusicID": "1541243687",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/BJFYM4_uGrG7LaDt3BduVWEV2_e8Bdpw5JquHuwjHUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDAtNTE0My5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Good News",
-            "artistName": "Megan Thee Stallion",
-            "year": 2020,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1540031620",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 18837925,
+            "discogsMasterID": 1848252,
             "frontURL": null,
             "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/BJFYM4_uGrG7LaDt3BduVWEV2_e8Bdpw5JquHuwjHUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDAtNTE0My5qcGVn.jpeg",
@@ -6306,50 +6040,12 @@
             ],
             "appleMusicID": "1639439718",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33587145,
+            "discogsMasterID": 2748704,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/7FKWnsffI9RBdwU-4Bin-rw-i1Rt8eUjPTz0AalbH6g/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTQ1LTE3NDQ3Mjgx/MjktNzcxNS5qcGVn.jpeg",
             "discURL": null,
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Traumazine",
-            "artistName": "Megan Thee Stallion",
-            "year": 2022,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1639430350",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": null,
+            "labelURL": "https://i.discogs.com/lDg1a02lc-Zvjjv4DGciD3jQC6z6-Yp2SMzX4wEfu6A/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTQ1LTE3NDQ3Mjgx/MjktOTI1NS5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -6382,46 +6078,8 @@
             ],
             "appleMusicID": "1752025676",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/BJFYM4_uGrG7LaDt3BduVWEV2_e8Bdpw5JquHuwjHUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDAtNTE0My5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "MEGAN",
-            "artistName": "Megan Thee Stallion",
-            "year": 2024,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1752024169",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 32478330,
+            "discogsMasterID": 3527792,
             "frontURL": null,
             "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/BJFYM4_uGrG7LaDt3BduVWEV2_e8Bdpw5JquHuwjHUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDAtNTE0My5qcGVn.jpeg",
@@ -6434,7 +6092,7 @@
         {
           "kind": "divider",
           "dividerName": "Megan Thee Stallion",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -6464,10 +6122,10 @@
             ],
             "appleMusicID": "1657271960",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 26584355,
+            "discogsMasterID": 2890219,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/SwFrhIziyrAUFFcLVcjWDceUV7Es15SjLRST6wnVMrA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg0/MzU1LTE2ODAyMDk1/MTctNDgyMi5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -6478,7 +6136,7 @@
         {
           "kind": "divider",
           "dividerName": "Metro Boomin",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -6600,12 +6258,12 @@
             ],
             "appleMusicID": "1381553184",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 34386034,
+            "discogsMasterID": 1582576,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/JYRGVI-PwQ0Z10rMZEcByYRT-APVZIsu5VCIJ6HnEQ4/rs:fit/g:sm/q:90/h:132/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg2/MDM0LTE3NzIzNjQ5/MjgtNDIwMy5qcGVn.jpeg",
             "discURL": null,
-            "labelURL": null,
+            "labelURL": "https://i.discogs.com/ZagBmSI_kaW6pH5CSSgObL7I4jDnp2iKAypIqiEq4FI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg2/MDM0LTE3NzIzNjQ5/MjktMTk3Ny5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -6638,10 +6296,10 @@
             ],
             "appleMusicID": "1802175271",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 34386238,
+            "discogsMasterID": 3780737,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/gvoXyfy5pRVNYLNN-pUwgCKCt_jO7KDGirqs4EsK-Ms/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg2/MjM4LTE3NTMwMTg0/NzItMzA0Ny5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/fD4Rmq46ivthRB-RAbipnyhpMT8tqjrMY2V7YRId_IE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTMy/OTQ2LTE3NDc5Mjk2/NDMtMTIzMy5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
@@ -6652,7 +6310,7 @@
         {
           "kind": "divider",
           "dividerName": "Playboi Carti",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -6682,8 +6340,8 @@
             ],
             "appleMusicID": "1440933547",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 26058199,
+            "discogsMasterID": 950545,
             "frontURL": null,
             "backURL": "https://i.discogs.com/L2gmmVbEDEJbRXZ3briY1L15JGlpVpvNlByug6l4NW4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU4/MTk5LTE2NzYyMTcz/NTAtODM4My5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/GIKWMRNuoj2Qkyp1Zy-3nImOrl7dSmiyuRYJj_H_4-c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU4/MTk5LTE2NzY3NTc3/MTktMTY3OS5qcGVn.jpeg",
@@ -6696,7 +6354,7 @@
         {
           "kind": "divider",
           "dividerName": "Rihanna",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -6778,7 +6436,7 @@
         {
           "kind": "divider",
           "dividerName": "SZA",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -6822,7 +6480,7 @@
         {
           "kind": "divider",
           "dividerName": "Solange",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -6896,10 +6554,10 @@
             ],
             "appleMusicID": "1540833388",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 30450125,
+            "discogsMasterID": 1667750,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/_r1nOTvTEsKM_lWVuIGdqwceTXuHh3gLXhBW3lEOSCI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTI1LTE3MTM4MjI1/NDgtNzIzMS5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -7054,11 +6712,11 @@
             ],
             "appleMusicID": "1793654348",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33007125,
+            "discogsMasterID": 3737196,
             "frontURL": null,
-            "backURL": null,
-            "discURL": null,
+            "backURL": "https://i.discogs.com/me8PPOsSmHeNNQTZ62Cw0KkofhP2etoaXatf70TbCew/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA3/MTI1LTE3Mzk4MDIw/NTctNTgwOS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/POsGIpBR8hheUJGYRWZkHwSX-VnN8gJ0ZAFkTPP9LHE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA3/MTI1LTE3Mzk3MzYz/ODAtNTY3OC5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
             "discCrop": null,
@@ -7551,7 +7209,7 @@
         {
           "kind": "divider",
           "dividerName": "Charli xcx",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -7638,7 +7296,7 @@
         {
           "kind": "divider",
           "dividerName": "Clairo",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -7682,7 +7340,7 @@
         {
           "kind": "divider",
           "dividerName": "Dua Lipa",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -7712,10 +7370,10 @@
             ],
             "appleMusicID": "1852333140",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 32922291,
+            "discogsMasterID": 3728448,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/bavS9wE2JtdIcvnBOJsc0QKUhTuoUEBBrB9faJmQvcU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIy/MjkxLTE3Mzc1OTEx/OTUtMzg0NS5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -7726,7 +7384,7 @@
         {
           "kind": "divider",
           "dividerName": "FKA twigs",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -7862,7 +7520,7 @@
         {
           "kind": "divider",
           "dividerName": "Jamie xx",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -7954,7 +7612,7 @@
         {
           "kind": "divider",
           "dividerName": "Jon Batiste",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -8036,7 +7694,7 @@
         {
           "kind": "divider",
           "dividerName": "KAROL G",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -8128,7 +7786,7 @@
         {
           "kind": "divider",
           "dividerName": "Kacey Musgraves",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -8244,10 +7902,10 @@
             ],
             "appleMusicID": "1792666546",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33324156,
+            "discogsMasterID": 3772997,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/qlqqDG12nXf8K2IhrVrlAhTw1Z8xOTcPWXjz57sTMDc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI0/MTU2LTE3NDMyODY1/ODYtODgyMS5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -8380,8 +8038,8 @@
             ],
             "appleMusicID": "1846342052",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 36359503,
+            "discogsMasterID": 4065919,
             "frontURL": null,
             "backURL": "https://i.discogs.com/kGoky4R1hFSW25_aKXEceP-N9BYxCv3BkpIdcjOpWvM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzU5/NTAzLTE3NzAxMzc0/MzQtMjEyNy5qcGVn.jpeg",
             "discURL": null,
@@ -8470,7 +8128,12 @@
             "labelURL": "https://i.discogs.com/N_3Ma0Xh63OFjKh4-iEa4-lg268Zu1ORE0d3Bzdh-cE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM2/NTc2LTE2MzU2OTc3/MTMtNjQ3Ny5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
-            "labelCrop": null
+            "labelCrop": {
+              "x": 0.015000000000000043,
+              "y": 0.019048414023372328,
+              "width": 0.9699999999999999,
+              "height": 0.9619031719532554
+            }
           }
         },
         {
@@ -8514,7 +8177,7 @@
         {
           "kind": "divider",
           "dividerName": "Lorde",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -8606,7 +8269,7 @@
         {
           "kind": "divider",
           "dividerName": "Magdalena Bay",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -8641,10 +8304,15 @@
             "frontURL": null,
             "backURL": "https://i.discogs.com/g9f5nPZZSATBlgen_hEdWQWX4W-LTHUtaIMCwyEZ2pk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI5/ODM4LTE1NzEwNjYx/ODMtODU0Ni5qcGVn.jpeg",
             "discURL": null,
-            "labelURL": null,
+            "labelURL": "https://i.discogs.com/zHNF9L31oLKFe39U6DAWpemgs4kTLmts2hxINwCzr7g/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI5/ODM4LTE1NzEwNjYy/NzktNDI0OS5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
-            "labelCrop": null
+            "labelCrop": {
+              "x": 0.014999999999999996,
+              "y": 0.01742904841402337,
+              "width": 0.97,
+              "height": 0.9651419031719533
+            }
           }
         },
         {
@@ -8678,10 +8346,15 @@
             "discogsMasterID": 2272510,
             "frontURL": null,
             "backURL": "https://i.discogs.com/XJNO9QfNeC0Lz0n64W_-lFaATnd4-hCQPqcG_4aWfrU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/MTExLTE3MzI4NDcy/NDctNTczNy5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/lPWttL-gF_kmlUP_LK-1TV15-p-s-vBgO4q7PWUJRxA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/MTExLTE3MzI4NDcy/NDMtODAxOS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/-RRxYsfwhuUT_U3vuyq3lZbobnyEP1HSDMyANtnoMmQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/MTExLTE3MzI4NDcy/NDktNDcyNC5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.03783591920229529,
+              "y": 0.028387931179173553,
+              "width": 0.9243281615954094,
+              "height": 0.9432241376416529
+            },
             "labelCrop": null
           }
         },
@@ -8716,17 +8389,22 @@
             "discogsMasterID": 3826908,
             "frontURL": null,
             "backURL": "https://i.discogs.com/s7niBfv8ZEDSJwyYK2nVlWQl4bh-jwhqvo9oc2eoUbc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njg2/MTY1LTE3NTM4OTkx/NjgtMzI2OC5qcGVn.jpeg",
-            "discURL": null,
+            "discURL": "https://i.discogs.com/45C1pua4RxbZGMmONf_-9-sUd86EAvpxnryzbWN-NAc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njg2/MTY1LTE3NTM4OTkx/NjgtMTA1MC5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.0,
+              "y": 0.12555555555555556,
+              "width": 1.0,
+              "height": 0.7488888888888889
+            },
             "labelCrop": null
           }
         },
         {
           "kind": "divider",
           "dividerName": "Men I Trust",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -8756,10 +8434,10 @@
             ],
             "appleMusicID": "1817609404",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 35207368,
+            "discogsMasterID": 3984037,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/lSTPjwVGihFvrHTOlZzwD3v1h6xkWEFIUCndAhSBFQ4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NTk0OTMz/MTYtNzY5OC5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -8770,7 +8448,7 @@
         {
           "kind": "divider",
           "dividerName": "Olivia Dean",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -9015,7 +8693,7 @@
         {
           "kind": "divider",
           "dividerName": "Sabrina Carpenter",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -9097,7 +8775,7 @@
         {
           "kind": "divider",
           "dividerName": "Sonique",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -9127,12 +8805,12 @@
             ],
             "appleMusicID": "1779319620",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33208863,
+            "discogsMasterID": 3758880,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/kwuGROt4PSkFUB5-nIkrduF9GOCc2z6QrTG17omDXPk/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA4/ODYzLTE3NDcxODM2/MzktMjEyMC5qcGVn.jpeg",
             "discURL": null,
-            "labelURL": null,
+            "labelURL": "https://i.discogs.com/TbLufokLHV0l8yxPU4xi93jxNQ0pIwB1eLs0A_szQsQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA4/ODYzLTE3NDcxODM2/MzUtNjY0Ny5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -9141,7 +8819,7 @@
         {
           "kind": "divider",
           "dividerName": "Tate McRae",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -9299,7 +8977,7 @@
         {
           "kind": "divider",
           "dividerName": "Taylor Swift",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         }
       ]
@@ -9464,10 +9142,10 @@
             ],
             "appleMusicID": "1821526317",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 35321602,
+            "discogsMasterID": 3977024,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/cvDZUrNik4m0x7b9Ja2nJzTaT5UXTxAas34yz5j578Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzIx/NjAyLTE3ODA1MjQ4/ODQtMzYyOC5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -9502,10 +9180,10 @@
             ],
             "appleMusicID": "1852333140",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 32922291,
+            "discogsMasterID": 3728448,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/bavS9wE2JtdIcvnBOJsc0QKUhTuoUEBBrB9faJmQvcU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIy/MjkxLTE3Mzc1OTEx/OTUtMzg0NS5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -9578,8 +9256,8 @@
             ],
             "appleMusicID": "1796483834",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33790944,
+            "discogsMasterID": 3824505,
             "frontURL": null,
             "backURL": "https://i.discogs.com/ILDe9887zp3gu71_0pQ5vj-CvdAkbDjeyXMjouZ23J4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODA0/MjEzLTE3NDU2MjI2/NzktMTQ1NC5qcGVn.jpeg",
             "discURL": null,
@@ -9654,10 +9332,10 @@
             ],
             "appleMusicID": "1826343589",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
+            "discogsReleaseID": 36909519,
             "discogsMasterID": null,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/Ru2dp2-52Jtn8ejJXfjPrryqqgr1j7DzKlJesdpd1KE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/NTE5LTE3NzQ3NDUx/MTAtODE3Ny5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -9692,10 +9370,10 @@
             ],
             "appleMusicID": "1792666546",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33324156,
+            "discogsMasterID": 3772997,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/qlqqDG12nXf8K2IhrVrlAhTw1Z8xOTcPWXjz57sTMDc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI0/MTU2LTE3NDMyODY1/ODYtODgyMS5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -9730,8 +9408,8 @@
             ],
             "appleMusicID": "1846342052",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 36359503,
+            "discogsMasterID": 4065919,
             "frontURL": null,
             "backURL": "https://i.discogs.com/kGoky4R1hFSW25_aKXEceP-N9BYxCv3BkpIdcjOpWvM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzU5/NTAzLTE3NzAxMzc0/MzQtMjEyNy5qcGVn.jpeg",
             "discURL": null,
@@ -9772,10 +9450,15 @@
             "discogsMasterID": 3826908,
             "frontURL": null,
             "backURL": "https://i.discogs.com/s7niBfv8ZEDSJwyYK2nVlWQl4bh-jwhqvo9oc2eoUbc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njg2/MTY1LTE3NTM4OTkx/NjgtMzI2OC5qcGVn.jpeg",
-            "discURL": null,
+            "discURL": "https://i.discogs.com/45C1pua4RxbZGMmONf_-9-sUd86EAvpxnryzbWN-NAc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njg2/MTY1LTE3NTM4OTkx/NjgtMTA1MC5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.0,
+              "y": 0.12555555555555556,
+              "width": 1.0,
+              "height": 0.7488888888888889
+            },
             "labelCrop": null
           }
         },
@@ -9806,8 +9489,8 @@
             ],
             "appleMusicID": "1802103906",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 34007079,
+            "discogsMasterID": 3848892,
             "frontURL": null,
             "backURL": null,
             "discURL": null,
@@ -9844,10 +9527,10 @@
             ],
             "appleMusicID": "1817609404",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 35207368,
+            "discogsMasterID": 3984037,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/lSTPjwVGihFvrHTOlZzwD3v1h6xkWEFIUCndAhSBFQ4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NTk0OTMz/MTYtNzY5OC5qcGVn.jpeg",
             "discURL": null,
             "labelURL": null,
             "backCrop": null,
@@ -9882,10 +9565,10 @@
             ],
             "appleMusicID": "1802175271",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 34386238,
+            "discogsMasterID": 3780737,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/gvoXyfy5pRVNYLNN-pUwgCKCt_jO7KDGirqs4EsK-Ms/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg2/MjM4LTE3NTMwMTg0/NzItMzA0Ny5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/fD4Rmq46ivthRB-RAbipnyhpMT8tqjrMY2V7YRId_IE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTMy/OTQ2LTE3NDc5Mjk2/NDMtMTIzMy5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
@@ -10034,8 +9717,8 @@
             ],
             "appleMusicID": "1778713616",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33204222,
+            "discogsMasterID": 3758304,
             "frontURL": null,
             "backURL": null,
             "discURL": null,
@@ -10072,8 +9755,8 @@
             ],
             "appleMusicID": "1800532611",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33927405,
+            "discogsMasterID": 3840642,
             "frontURL": null,
             "backURL": null,
             "discURL": null,
@@ -10186,12 +9869,12 @@
             ],
             "appleMusicID": "1779319620",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33208863,
+            "discogsMasterID": 3758880,
             "frontURL": null,
-            "backURL": null,
+            "backURL": "https://i.discogs.com/kwuGROt4PSkFUB5-nIkrduF9GOCc2z6QrTG17omDXPk/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA4/ODYzLTE3NDcxODM2/MzktMjEyMC5qcGVn.jpeg",
             "discURL": null,
-            "labelURL": null,
+            "labelURL": "https://i.discogs.com/TbLufokLHV0l8yxPU4xi93jxNQ0pIwB1eLs0A_szQsQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA4/ODYzLTE3NDcxODM2/MzUtNjY0Ny5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -10224,8 +9907,8 @@
             ],
             "appleMusicID": "1838810949",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 35238409,
+            "discogsMasterID": 3990556,
             "frontURL": null,
             "backURL": null,
             "discURL": null,
@@ -10300,11 +9983,11 @@
             ],
             "appleMusicID": "1793654348",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 33007125,
+            "discogsMasterID": 3737196,
             "frontURL": null,
-            "backURL": null,
-            "discURL": null,
+            "backURL": "https://i.discogs.com/me8PPOsSmHeNNQTZ62Cw0KkofhP2etoaXatf70TbCew/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA3/MTI1LTE3Mzk4MDIw/NTctNTgwOS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/POsGIpBR8hheUJGYRWZkHwSX-VnN8gJ0ZAFkTPP9LHE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA3/MTI1LTE3Mzk3MzYz/ODAtNTY3OC5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
             "discCrop": null,
@@ -10338,8 +10021,8 @@
             ],
             "appleMusicID": "1827715784",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 34599475,
+            "discogsMasterID": 3915187,
             "frontURL": null,
             "backURL": null,
             "discURL": "https://i.discogs.com/hRJKJZXxhhEPu1-1ASCsBvPYDVIeDz4gJXmjMRzrHPg/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTk5/NDc1LTE3NTMyMDI2/MzItMTQ3Mi5qcGVn.jpeg",
@@ -10452,46 +10135,8 @@
             ],
             "appleMusicID": "1725240183",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/0VhLURJExsCAEHAiqPTSEAYj77jtzF5MmmLDlkp2W-M/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjg4/ODctMTM4NjE5Mzc0/OC04NjExLmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "american dream",
-            "artistName": "21 Savage",
-            "year": 2024,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1724494274",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 30096167,
+            "discogsMasterID": 3422461,
             "frontURL": null,
             "backURL": null,
             "discURL": null,
@@ -11110,46 +10755,8 @@
             ],
             "appleMusicID": "1752025676",
             "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/BJFYM4_uGrG7LaDt3BduVWEV2_e8Bdpw5JquHuwjHUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDAtNTE0My5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "MEGAN",
-            "artistName": "Megan Thee Stallion",
-            "year": 2024,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1752024169",
-            "musicBrainzID": null,
-            "discogsReleaseID": null,
-            "discogsMasterID": null,
+            "discogsReleaseID": 32478330,
+            "discogsMasterID": 3527792,
             "frontURL": null,
             "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
             "discURL": "https://i.discogs.com/BJFYM4_uGrG7LaDt3BduVWEV2_e8Bdpw5JquHuwjHUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDAtNTE0My5qcGVn.jpeg",
