@@ -2,8 +2,8 @@ name: Rotate store crates
 
 on:
   schedule:
-    # Every other day at 07:00 UTC (~⅛ of each crate)
-    - cron: "0 7 */2 * *"
+    # Daily at 07:00 UTC (~⅛ of each crate per run)
+    - cron: "0 7 * * *"
   workflow_dispatch: {}
 
 permissions:

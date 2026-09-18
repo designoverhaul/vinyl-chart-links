@@ -19,7 +19,7 @@ The iOS app fetches this file (with a bundled fallback) instead of calling Airta
 or scraping Discogs/iTunes charts.
 
 Rotation: GitHub Action [`.github/workflows/rotate-crates.yml`](.github/workflows/rotate-crates.yml)
-runs every other day (~⅛ of each crate), then commits an updated snapshot.
+runs daily (~⅛ of each crate), then commits an updated snapshot.
 
 ## image-manifest.json
 

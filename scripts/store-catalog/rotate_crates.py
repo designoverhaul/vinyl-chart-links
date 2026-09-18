@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rotate ~1/8 of each in-crate album set every run (intended every 2 days).
+"""Rotate ~1/8 of each in-crate album set every run (intended daily).
 
 For each crate:
   1. Select ~1/8 of currently shelved albums (prefer whole artist blocks).
