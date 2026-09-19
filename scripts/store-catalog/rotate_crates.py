@@ -27,7 +27,12 @@ from pathlib import Path
 
 DEFAULT_BASE = "appBBdksyoPp31wPr"
 ALBUMS_TABLE = "tblEdPeuuzVHUXj8G"
-CRATE_KEYS = ["recent", "classic_rock", "80s", "90s"]
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from publish_crates import AIRTABLE_CRATE_WRITE, CRATE_KEYS, canonical_crate
+
+# New Release is a checkbox overlay, not a Crate select — skip it here.
+GENRE_CRATE_KEYS = [k for k in CRATE_KEYS if k != "new_release"]
 FRACTION = 1 / 8
 
 
@@ -93,14 +98,13 @@ def rotate_crate(tok: str, base: str, crate: str, all_albums: list[dict], rng: r
     shelved = [
         r
         for r in all_albums
-        if r["fields"].get("Crate") == crate and r["fields"].get("Status") == "in_crate"
+        if canonical_crate(r["fields"].get("Crate")) == crate
+        and r["fields"].get("Status") == "in_crate"
     ]
     pool = [r for r in all_albums if r["fields"].get("Status") == "pool"]
-    # Prefer pool albums that previously lived in this crate or have no crate history.
+    # Prefer pool inventory already tagged for this crate (Crate stays set while Status=pool).
     pool_pref = [
-        r
-        for r in pool
-        if not r["fields"].get("Crate") or r["fields"].get("Notes", "").find(crate) >= 0
+        r for r in pool if canonical_crate(r["fields"].get("Crate")) == crate
     ] or pool
 
     if not shelved:
@@ -142,7 +146,7 @@ def rotate_crate(tok: str, base: str, crate: str, all_albums: list[dict], rng: r
                 "id": r["id"],
                 "fields": {
                     "Status": "pool",
-                    "Crate": None,
+                    # Keep Crate era tag while in pool (Aaron: every album has a crate).
                     "Last Shelved At": now,
                 },
             }
@@ -154,7 +158,7 @@ def rotate_crate(tok: str, base: str, crate: str, all_albums: list[dict], rng: r
                 "id": r["id"],
                 "fields": {
                     "Status": "in_crate",
-                    "Crate": crate,
+                    "Crate": AIRTABLE_CRATE_WRITE.get(crate, crate),
                     "Last Shelved At": now,
                     "Times Shelved": times,
                 },
@@ -181,16 +185,21 @@ def main() -> None:
     print(f"loaded {len(albums)} albums")
 
     if args.dry_run:
-        for crate in CRATE_KEYS:
+        for crate in GENRE_CRATE_KEYS:
             shelved = [
                 r
                 for r in albums
-                if r["fields"].get("Crate") == crate and r["fields"].get("Status") == "in_crate"
+                if canonical_crate(r["fields"].get("Crate")) == crate
+                and r["fields"].get("Status") == "in_crate"
             ]
-            print(f"  {crate}: {len(shelved)} in crate → would rotate ~{max(1, int(round(len(shelved)*FRACTION)))}")
+            print(
+                f"  {crate}: {len(shelved)} in crate → would rotate "
+                f"~{max(1, int(round(len(shelved) * FRACTION)))}"
+            )
+        print("  new_release: checkbox overlay — skip")
         return
 
-    for crate in CRATE_KEYS:
+    for crate in GENRE_CRATE_KEYS:
         rotate_crate(tok, args.base, crate, albums, rng)
         # Refresh local list so later crates see updated pool membership.
         albums = list_all(tok, args.base)

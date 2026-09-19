@@ -24,13 +24,102 @@ from pathlib import Path
 DEFAULT_BASE = "appBBdksyoPp31wPr"
 ARTISTS_TABLE = "tblJt37pdF1GzBSnb"
 ALBUMS_TABLE = "tblEdPeuuzVHUXj8G"
-CRATE_KEYS = ["recent", "classic_rock", "80s", "90s"]
+CRATE_KEYS = [
+    "classics",
+    "modern_rock",
+    "hip_hop_rnb",
+    "pop",
+    "new_release",
+]
 CRATE_NAMES = {
-    "recent": "Recent",
-    "classic_rock": "Classic Rock",
-    "80s": "80s",
-    "90s": "90s",
+    "classics": "Classics",
+    "modern_rock": "Modern Rock",
+    "hip_hop_rnb": "Hip Hop R&B",
+    "pop": "Pop",
+    "new_release": "New Release",
 }
+# New Release digs as a continuous stack — no artist divider tabs.
+CRATE_KEYS_WITHOUT_DIVIDERS = {"new_release"}
+
+# Genre-crate cap (Modern Rock was the oversized reference; trim from the back).
+SHELF_MAX = 55
+
+# Airtable Crate single-select names (Modern Rock is hyphenated in the base).
+AIRTABLE_CRATE_WRITE = {
+    "classics": "classics",
+    "modern_rock": "modern-rock",
+    "hip_hop_rnb": "hip_hop_rnb",
+    "pop": "pop",
+}
+
+# Airtable typos / migrate-window names → canonical CRATE_KEYS.
+CRATE_ALIASES = {
+    "modern-rock": "modern_rock",
+    "classic_rock": "classics",
+    "recent": "new_release",
+}
+
+def canonical_crate(raw: str | None) -> str | None:
+    if not raw:
+        return None
+    return CRATE_ALIASES.get(raw, raw)
+
+
+def is_new_release_row(fields: dict) -> bool:
+    """New Release crate membership is the Albums checkbox, not Crate=new_release
+    (that option does not exist on the single-select)."""
+    return bool(fields.get("New Release"))
+
+
+def genre_sort_key(record: dict) -> tuple:
+    fields = record["fields"]
+    return (
+        int(fields.get("Sort Order") or 0),
+        fields.get("Artist Name") or "",
+        int(fields.get("Year") or 0),
+        fields.get("Title") or "",
+    )
+
+
+def new_release_sort_key(record: dict) -> tuple:
+    fields = record["fields"]
+    # Newest at the front of the crate (top of the stack).
+    return (
+        -int(fields.get("Year") or 0),
+        fields.get("Artist Name") or "",
+        fields.get("Title") or "",
+    )
+
+
+def dedupe_apple_music(rows: list[dict]) -> list[dict]:
+    """Keep the first row per Apple Music ID. Duplicate pressings of the same
+    LP share an AM ID, which collapsed crate ForEach identity and broke tilt
+    at the back of the stack."""
+    seen: set[str] = set()
+    out: list[dict] = []
+    for row in rows:
+        am = str(row["fields"].get("Apple Music ID") or "").strip()
+        if am:
+            if am in seen:
+                continue
+            seen.add(am)
+        out.append(row)
+    return out
+
+
+def rows_for_crate(albums: list[dict], key: str) -> list[dict]:
+    if key == "new_release":
+        rows = [r for r in albums if is_new_release_row(r["fields"])]
+        rows.sort(key=new_release_sort_key)
+        return dedupe_apple_music(rows)[:SHELF_MAX]
+    rows = [
+        r
+        for r in albums
+        if canonical_crate(r["fields"].get("Crate")) == key
+        and r["fields"].get("Status") == "in_crate"
+    ]
+    rows.sort(key=genre_sort_key)
+    return dedupe_apple_music(rows)[:SHELF_MAX]
 
 
 def token() -> str:
@@ -144,32 +233,26 @@ def album_dto(fields: dict) -> dict:
 def build_snapshot(albums: list[dict]) -> dict:
     crates: dict = {}
     for key in CRATE_KEYS:
-        rows = [
-            r
-            for r in albums
-            if r["fields"].get("Crate") == key and r["fields"].get("Status") == "in_crate"
-        ]
-        rows.sort(
-            key=lambda r: (
-                int(r["fields"].get("Sort Order") or 0),
-                r["fields"].get("Artist Name") or "",
-                int(r["fields"].get("Year") or 0),
-                r["fields"].get("Title") or "",
-            )
-        )
+        rows = rows_for_crate(albums, key)
         by_artist: OrderedDict[str, list] = OrderedDict()
         for r in rows:
             name = r["fields"].get("Artist Name") or "Unknown"
             by_artist.setdefault(name, []).append(r)
+        # Stagger artist-name tabs L → C → R → repeat so neighbors don't stack
+        # (leading=left, trailing=right).
+        alignments = ["leading", "center", "trailing"]
         items = []
-        for artist_name, arts in by_artist.items():
+        omit_dividers = key in CRATE_KEYS_WITHOUT_DIVIDERS
+        for artist_index, (artist_name, arts) in enumerate(by_artist.items()):
             for r in arts:
                 items.append({"kind": "record", "album": album_dto(r["fields"])})
+            if omit_dividers:
+                continue
             items.append(
                 {
                     "kind": "divider",
                     "dividerName": artist_name,
-                    "dividerAlignment": "center",
+                    "dividerAlignment": alignments[artist_index % len(alignments)],
                     "dividerCompact": False,
                 }
             )
@@ -197,6 +280,14 @@ def main() -> None:
     tok = token()
     albums = list_all(tok, args.base, ALBUMS_TABLE)
     snap = build_snapshot(albums)
+    record_count = sum(
+        1
+        for crate in snap["crates"].values()
+        for item in crate["items"]
+        if item.get("kind") == "record"
+    )
+    if record_count == 0:
+        sys.exit("Refusing to publish crates-v1.json with 0 records")
     text = json.dumps(snap, indent=2) + "\n"
 
     defaults = [
