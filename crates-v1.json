@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-20T21:53:37Z",
+  "generatedAt": "2026-09-20T22:31:06Z",
   "crateOrder": [
     "classics",
     "modern_rock",
@@ -2832,8 +2832,8 @@
             "discogsMasterID": 593987,
             "frontURL": null,
             "backURL": "https://i.discogs.com/ucGcdhzEKmGh0yQsuNaXYa3eHgDlmec62smO2d1qh5g/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQx/NTgtMTM5MTEwOTc0/OC0xODI0LmpwZWc.jpeg",
-            "discURL": "https://i.discogs.com/8A2dmCPhVJELkMPc1xZJq4BajaLN9tvlm2dJAwL6iOU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQx/NTgtMTQyMzY4MDYy/Ni01ODA3LmpwZWc.jpeg",
-            "labelURL": null,
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/8A2dmCPhVJELkMPc1xZJq4BajaLN9tvlm2dJAwL6iOU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQx/NTgtMTQyMzY4MDYy/Ni01ODA3LmpwZWc.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -5276,10 +5276,15 @@
             "discogsMasterID": 3422461,
             "frontURL": null,
             "backURL": null,
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/0VhLURJExsCAEHAiqPTSEAYj77jtzF5MmmLDlkp2W-M/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjg4/ODctMTM4NjE5Mzc0/OC04NjExLmpwZWc.jpeg",
+            "discURL": "https://i.discogs.com/_SzJkqdP3DpNYar1VE9pHPtrF2mgOuTuFQg-gg1gVtg/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk2/MTY3LTE3MTY0NjU4/NzUtMzAyNS5wbmc.jpeg",
+            "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.08171056376970431,
+              "y": 0.032283104519166425,
+              "width": 0.8380115913255889,
+              "height": 0.8883515102391402
+            },
             "labelCrop": null
           }
         },
@@ -5364,8 +5369,8 @@
             "discogsMasterID": 1691517,
             "frontURL": null,
             "backURL": "https://i.discogs.com/bwAFPyL98B9EqILhNRPD3LQhmfguLJ8potL0dPKctnQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU3/NTg4LTE3ODM4MDA3/OTQtMTc4OC5wbmc.jpeg",
-            "discURL": "https://i.discogs.com/bwAFPyL98B9EqILhNRPD3LQhmfguLJ8potL0dPKctnQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU3/NTg4LTE3ODM4MDA3/OTQtMTc4OC5wbmc.jpeg",
-            "labelURL": null,
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/bwAFPyL98B9EqILhNRPD3LQhmfguLJ8potL0dPKctnQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU3/NTg4LTE3ODM4MDA3/OTQtMTc4OC5wbmc.jpeg",
             "backCrop": {
               "x": 0.009181969949916527,
               "y": 0.0,
@@ -8348,10 +8353,15 @@
             "discogsMasterID": 3255691,
             "frontURL": null,
             "backURL": "https://i.discogs.com/M0k1eWRx6etVmq61CToW8B3ncmM-SxP_tibPXKjlrOY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzgz/NzI0LTE3MjgzMDUz/MDAtNzI0OC5qcGVn.jpeg",
-            "discURL": null,
+            "discURL": "https://i.discogs.com/vBmHF4fYaoMBUd0i6OaphNhyZdTI6mXcqXC2V64hs-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzgz/NzI0LTE3NDEyMTE2/MjgtMTgyNy5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.015,
+              "y": 0.015,
+              "width": 0.97,
+              "height": 0.97
+            },
             "labelCrop": null
           }
         },
@@ -9806,7 +9816,7 @@
             "discogsMasterID": 3153258,
             "frontURL": null,
             "backURL": "https://i.discogs.com/WvILbWQ634m9mDJVoHZGNFWHWZFZBCRqqvCuzImfIJs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/NTM0LTE3Njg3MTM1/ODAtNDIwOS5qcGVn.jpeg",
-            "discURL": null,
+            "discURL": "https://i.discogs.com/3A34X_6a84oZqP6dRs2nZ2wRQB88W_5vPOFr-qjQ3iE/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/NTM0LTE3Njg3MTM1/ODAtMjkwOC5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
             "discCrop": null,
@@ -12495,10 +12505,15 @@
             "discogsMasterID": 3422461,
             "frontURL": null,
             "backURL": null,
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/0VhLURJExsCAEHAiqPTSEAYj77jtzF5MmmLDlkp2W-M/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjg4/ODctMTM4NjE5Mzc0/OC04NjExLmpwZWc.jpeg",
+            "discURL": "https://i.discogs.com/_SzJkqdP3DpNYar1VE9pHPtrF2mgOuTuFQg-gg1gVtg/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk2/MTY3LTE3MTY0NjU4/NzUtMzAyNS5wbmc.jpeg",
+            "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.08171056376970431,
+              "y": 0.032283104519166425,
+              "width": 0.8380115913255889,
+              "height": 0.8883515102391402
+            },
             "labelCrop": null
           }
         },
