@@ -42,7 +42,7 @@ CRATE_NAMES = {
 CRATE_KEYS_WITHOUT_DIVIDERS = {"new_release"}
 
 # Genre-crate cap; trim extras from the back of the stack.
-SHELF_MAX = 68
+SHELF_MAX = 60
 
 # Airtable Crate single-select names (Modern Rock is hyphenated in the base).
 AIRTABLE_CRATE_WRITE = {
