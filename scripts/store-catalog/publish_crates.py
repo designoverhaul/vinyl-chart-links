@@ -41,8 +41,8 @@ CRATE_NAMES = {
 # New Release digs as a continuous stack — no artist divider tabs.
 CRATE_KEYS_WITHOUT_DIVIDERS = {"new_release"}
 
-# Genre-crate cap (Modern Rock was the oversized reference; trim from the back).
-SHELF_MAX = 55
+# Genre-crate cap; trim extras from the back of the stack.
+SHELF_MAX = 68
 
 # Airtable Crate single-select names (Modern Rock is hyphenated in the base).
 AIRTABLE_CRATE_WRITE = {
