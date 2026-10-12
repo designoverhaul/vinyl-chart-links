@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T13:46:59Z",
+  "generatedAt": "2026-10-12T16:31:38Z",
   "crateOrder": [
     "classics",
     "modern_rock",
@@ -55,50 +55,6 @@
           "kind": "divider",
           "dividerName": "Bob Marley & The Wailers",
           "dividerAlignment": "leading",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Buffalo Springfield",
-            "artistName": "Buffalo Springfield",
-            "year": 1966,
-            "genre": "Rock",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "265611980",
-            "musicBrainzID": null,
-            "discogsReleaseID": 4720782,
-            "discogsMasterID": 104128,
-            "frontURL": null,
-            "backURL": null,
-            "discURL": "https://i.discogs.com/l1Q9GFEuF6xcNSrm4rOhhKe8LugPJRB0fpidkTufkAI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjA3/ODItMTY1Mzg3NDE3/Ni0yMDk2LmpwZWc.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Buffalo Springfield",
-          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -180,132 +136,6 @@
         {
           "kind": "divider",
           "dividerName": "Culture Club",
-          "dividerAlignment": "trailing",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "True Colors",
-            "artistName": "Cyndi Lauper",
-            "year": 1986,
-            "genre": "Pop",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "193520976",
-            "musicBrainzID": null,
-            "discogsReleaseID": 3317223,
-            "discogsMasterID": 121742,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/x079aWm1DmCrwYoAcE88lprNSjZ2aXPutKwZ6uBvODI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTcy/MjMtMTQ4NzE4Njc2/NS00NDU3LmpwZWc.jpeg",
-            "discURL": "https://i.discogs.com/Bto-8Zczzud8V6OMlFyOQbW17rsTJWm20-XkldBb6Ww/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTcy/MjMtMTYzMDgzOTM1/OS04MDA3LmpwZWc.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Cyndi Lauper",
-          "dividerAlignment": "leading",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Holy Diver",
-            "artistName": "Dio",
-            "year": 1983,
-            "genre": "Metal",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1048475969",
-            "musicBrainzID": null,
-            "discogsReleaseID": 23955734,
-            "discogsMasterID": 333979,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/ZfTvX314eBnbL1jOHqpGqxm3cN9399PN-hXFXAWmdqw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTU1/NzM0LTE2NTg0MjE4/MjQtOTk0Ni5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/CojfGxDjj5gpo9VRyGfrZDi9fZF-GTS-vbi8ugjKDtc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTU1/NzM0LTE2NTg0MjE5/NzUtMTM1Ny5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "The Last In Line (Remastered)",
-            "artistName": "Dio",
-            "year": 1984,
-            "genre": "Metal",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1134745928",
-            "musicBrainzID": null,
-            "discogsReleaseID": 2428026,
-            "discogsMasterID": 29168,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/rc1PkVJKZkw_K9F18E2GCxCJN1FRxAQro5goOumNHRQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/MjYtMTc0MTQzNjMy/Mi0xNzAzLmpwZWc.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/bg9nPgcopMcg4F3-X_mSo6aY7RaYv2WPO_b4OT8umZE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/MjYtMTc0MTQzNjMy/MS0xMzUyLmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Dio",
           "dividerAlignment": "center",
           "dividerCompact": false
         },
@@ -475,6 +305,88 @@
         {
           "kind": "record",
           "album": {
+            "title": "The Circus",
+            "artistName": "Erasure",
+            "year": 1987,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "302137806",
+            "musicBrainzID": null,
+            "discogsReleaseID": 105818,
+            "discogsMasterID": 5097,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/wcZC4bTYzxTmzLDSWVm5KGdkFm0EbCUmyeV9EFJt9Tc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgx/OC0xMjY4NTc4MjUx/LmpwZWc.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/nAp-cPaRPFpd6KBYJVxpbuxDjwe0IT6ew5qzZ0IapT0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgx/OC0xMzk2NTg1MDk0/LTg0MjIuanBlZw.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "The Innocents",
+            "artistName": "Erasure",
+            "year": 1988,
+            "genre": "Rock",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "332852548",
+            "musicBrainzID": null,
+            "discogsReleaseID": 2995642,
+            "discogsMasterID": 18601,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/2AJlm1_xd6g8uGR3GGa-kZYgh0sANCzT6lLryipkncQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU2/NDItMTM5ODQ3ODM2/NC0zMzgwLmpwZWc.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/Ah9SEkhNcahx0KV0KcmmUn94zd2Y5RhoybHt5XMi_aU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU2/NDItMTM5ODQ3ODM4/Ni0zNTM3LmpwZWc.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Erasure",
+          "dividerAlignment": "leading",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
             "title": "The Pleasure Principle (Bonus Tracks)",
             "artistName": "Gary Numan",
             "year": 1979,
@@ -518,7 +430,7 @@
         {
           "kind": "divider",
           "dividerName": "Gary Numan",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -676,7 +588,7 @@
         {
           "kind": "divider",
           "dividerName": "Guns N' Roses",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -758,7 +670,7 @@
         {
           "kind": "divider",
           "dividerName": "Hall & Oates",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -840,7 +752,137 @@
         {
           "kind": "divider",
           "dividerName": "Heart",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Are You Experienced",
+            "artistName": "Jimi Hendrix",
+            "year": 1967,
+            "genre": "Psychedelic Rock",
+            "spineColor": [
+              0.5,
+              0.2,
+              0.5,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.5,
+              0.0,
+              0.5,
+              1.0
+            ],
+            "coverColor": [
+              0.45,
+              0.15,
+              0.45,
+              1.0
+            ],
+            "appleMusicID": "357225315",
+            "musicBrainzID": "7fd1542f-331f-4bf7-a4e7-545bdd2b7ac8",
+            "discogsReleaseID": 11893097,
+            "discogsMasterID": 24497,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/zTEFqhi-ti4DgOpKfZkk3yUi3oiLZZxz4KQvS9aVjzQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/MDk3LTE3MDk4NTMx/MDAtODY0NS5qcGVn.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/GEj2MqKI0cyTrRt_9tEtD5o_tGTtbfDQvKOaV_IDbe8/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/MDk3LTE1NDI0MzEy/OTEtNjY5MS5qcGVn.jpeg",
+            "backCrop": {
+              "x": 0.0008347245409015025,
+              "y": 0.0,
+              "width": 0.998330550918197,
+              "height": 1.0
+            },
+            "discCrop": null,
+            "labelCrop": {
+              "x": 0.036825000000000045,
+              "y": 0.015000000000000048,
+              "width": 0.9263499999999999,
+              "height": 0.9699999999999999
+            }
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Axis: Bold as Love",
+            "artistName": "Jimi Hendrix",
+            "year": 1967,
+            "genre": "Psychedelic Rock",
+            "spineColor": [
+              0.2,
+              0.3,
+              0.5,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.15,
+              0.25,
+              0.45,
+              1.0
+            ],
+            "appleMusicID": "357222341",
+            "musicBrainzID": "a90ea1a0-99cb-466b-aacc-544408f87507",
+            "discogsReleaseID": 1348423,
+            "discogsMasterID": 24511,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/FGkHhPt93AFT2NHMeij4isR1WK9q6UDuETUqEHq7bBE/rs:fit/g:sm/q:90/h:545/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg0/MjMtMTM4OTk2Mjcy/MS0xNTE3LmpwZWc.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/TeZc4sHK1v9zF3PsYh1JzY_now4WbD4a37xhnBv8q4Q/rs:fit/g:sm/q:90/h:575/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg0/MjMtMTM4OTk2MjMx/My01NTMxLmpwZWc.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Electric Ladyland",
+            "artistName": "Jimi Hendrix",
+            "year": 1968,
+            "genre": "Psychedelic Rock",
+            "spineColor": [
+              0.6,
+              0.35,
+              0.1,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              0.5,
+              0.0,
+              1.0
+            ],
+            "coverColor": [
+              0.55,
+              0.3,
+              0.08,
+              1.0
+            ],
+            "appleMusicID": "357652252",
+            "musicBrainzID": "bfd5072f-a68f-46e7-9f1a-18ad544ddf03",
+            "discogsReleaseID": 538440,
+            "discogsMasterID": 24535,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/jWwQNRME3Fdz540UhEvH1ZY1_o4uU1Kv_0REsL0IOXY/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQ0/MC0xNzU2MzcxOTY1/LTQ2OTEuanBlZw.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/dq7uFdpRi0a0J6d3crx09c6JOoB1EsgHaJbZRi8iRIA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQ0/MC0xNTkyMDcxODQy/LTg4MjQuanBlZw.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Jimi Hendrix",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -884,7 +926,7 @@
         {
           "kind": "divider",
           "dividerName": "Joan Jett & The Blackhearts",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -1090,7 +1132,7 @@
         {
           "kind": "divider",
           "dividerName": "Led Zeppelin",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -1177,7 +1219,7 @@
         {
           "kind": "divider",
           "dividerName": "Metallica",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -1297,7 +1339,7 @@
         {
           "kind": "divider",
           "dividerName": "Miles Davis",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -1389,7 +1431,7 @@
         {
           "kind": "divider",
           "dividerName": "Poison",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -1514,7 +1556,7 @@
         {
           "kind": "divider",
           "dividerName": "Rush",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -1634,7 +1676,7 @@
         {
           "kind": "divider",
           "dividerName": "Tears for Fears",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -1716,7 +1758,7 @@
         {
           "kind": "divider",
           "dividerName": "The Bangles",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -1749,12 +1791,22 @@
             "discogsReleaseID": 2616973,
             "discogsMasterID": 268265,
             "frontURL": null,
-            "backURL": "https://i.discogs.com/g2anK5XdinKAy-zP4evdT2xR08b2MDi6p4TjJ8xS-nw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY5/NzMtMTU2NjczMTk0/NC0yMDAxLmpwZWc.jpeg",
+            "backURL": "https://i.discogs.com/QTZXCIaoZ8Y5N4fRldLnrnX0Cg8TPY8WS8kPdYbU4ms/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY5/NzMtMTU2NjczMTk0/NC01MzEyLmpwZWc.jpeg",
             "discURL": null,
-            "labelURL": null,
-            "backCrop": null,
+            "labelURL": "https://i.discogs.com/QTZXCIaoZ8Y5N4fRldLnrnX0Cg8TPY8WS8kPdYbU4ms/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY5/NzMtMTU2NjczMTk0/NC01MzEyLmpwZWc.jpeg",
+            "backCrop": {
+              "x": 0.015000000000000012,
+              "y": 0.045716666666666676,
+              "width": 0.97,
+              "height": 0.9085666666666666
+            },
             "discCrop": null,
-            "labelCrop": null
+            "labelCrop": {
+              "x": 0.18522731904270573,
+              "y": 0.05054623908672539,
+              "width": 0.7298713160045628,
+              "height": 0.6836461326576072
+            }
           }
         },
         {
@@ -1874,6 +1926,88 @@
         {
           "kind": "divider",
           "dividerName": "The Beach Boys",
+          "dividerAlignment": "trailing",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Mr. Tambourine Man",
+            "artistName": "The Byrds",
+            "year": 1965,
+            "genre": "Rock",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "153421296",
+            "musicBrainzID": null,
+            "discogsReleaseID": 1456636,
+            "discogsMasterID": 29939,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/v4HWixtHYzSdDy415JBivfaNUbR-E14d_dFuTM4tWnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY2/MzYtMTIyNTA1Nzkw/My5qcGVn.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/kWkhJ-O4RQWiLUtTzIzW_QNd-DOVggR4KbcTeiFqClU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY2/MzYtMTMwOTg0MzEy/MC5qcGVn.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Sweetheart of the Rodeo",
+            "artistName": "The Byrds",
+            "year": 1968,
+            "genre": "Rock",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "170506766",
+            "musicBrainzID": null,
+            "discogsReleaseID": 1081165,
+            "discogsMasterID": 29947,
+            "frontURL": null,
+            "backURL": null,
+            "discURL": "https://i.discogs.com/39cQ_LZGQtkigDS6Q7mT7y4oG5SvYyuHwWZXf9euEa4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEx/NjUtMTE5MDY0NDUw/OS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "The Byrds",
           "dividerAlignment": "leading",
           "dividerCompact": false
         },
@@ -1924,126 +2058,6 @@
         {
           "kind": "record",
           "album": {
-            "title": "Let It Be",
-            "artistName": "The Replacements",
-            "year": 1984,
-            "genre": "Rock",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "162563989",
-            "musicBrainzID": null,
-            "discogsReleaseID": 35734870,
-            "discogsMasterID": 16193,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/jTsoEO54LY69XHeJquM75tkAz3NLFTCbAmUkgMmjtfg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzM0/ODcwLTE3NjY2OTcz/NTktOTYwNi5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/Ha5J1JP0XLZ3bLWe4qylot7ie4DEUWX8IK2hro70q1U/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzM0/ODcwLTE3NzY4MjM2/NjMtNjQ2Mi5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Tim",
-            "artistName": "The Replacements",
-            "year": 1985,
-            "genre": "Rock",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "778205096",
-            "musicBrainzID": null,
-            "discogsReleaseID": 28363516,
-            "discogsMasterID": 16203,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/KM8Lco4XWpi4jwJaoZ7fS2sOGx582-3nVFIptgeMvtc/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzYz/NTE2LTE2OTU0MDUw/MDktMjI4Ni5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/bLzTKFupiA9OsI-3d2LHInCsl_5DZ8lReLgDtvMHrnQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzYz/NTE2LTE2OTc2MzMy/MTEtMTk2NS5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Pleased to Meet Me",
-            "artistName": "The Replacements",
-            "year": 1987,
-            "genre": "Alt Rock",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "290652236",
-            "musicBrainzID": null,
-            "discogsReleaseID": 14633758,
-            "discogsMasterID": 16214,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/cW3gB-fEK1sKHtY7pMpbLR0SbUS1KdE0iFxLXeX_fYk/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NzU4LTE1Nzg1OTEy/NDItNjM0OS5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/ZPuH1EYxd9aJOPwojRlr3S4w4UJdS4YWhz_6CJLwuks/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NzU4LTE1ODkxNDM4/NDktMzMzMC5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "The Replacements",
-          "dividerAlignment": "trailing",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
             "title": "The Velvet Underground & Nico (45th Anniversary Edition)",
             "artistName": "The Velvet Underground & Nico",
             "year": 1967,
@@ -2082,7 +2096,7 @@
         {
           "kind": "divider",
           "dividerName": "The Velvet Underground & Nico",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -2303,7 +2317,7 @@
         {
           "kind": "divider",
           "dividerName": "U2",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -2395,7 +2409,7 @@
         {
           "kind": "divider",
           "dividerName": "Van Morrison",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -2477,7 +2491,7 @@
         {
           "kind": "divider",
           "dividerName": "ZZ Top",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         }
       ]
@@ -3300,136 +3314,6 @@
         {
           "kind": "record",
           "album": {
-            "title": "Because of the Times",
-            "artistName": "Kings of Leon",
-            "year": 2007,
-            "genre": "",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "218752258",
-            "musicBrainzID": null,
-            "discogsReleaseID": 1046928,
-            "discogsMasterID": 123924,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/30eqDOMhex-uyAVSmPrLZSbQkZsnATTyL5Cx_wKYCLM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY5/MjgtMTU2OTYxMjc4/MC01OTc4LmpwZWc.jpeg",
-            "discURL": "https://i.discogs.com/jVm_4FBeSOqO3onZW5SSsz9EHUdrNVr4JkNvAx_24pk/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY5/MjgtMTIwNDI3NjYz/NS5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": {
-              "x": 0.015,
-              "y": 0.015,
-              "width": 0.97,
-              "height": 0.97
-            },
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Only By the Night",
-            "artistName": "Kings of Leon",
-            "year": 2008,
-            "genre": "",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "290286432",
-            "musicBrainzID": null,
-            "discogsReleaseID": 7414473,
-            "discogsMasterID": 123931,
-            "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/aoiJHISMoo_X3mrgIrcfZC7oroACYna-LH4IYVyt2oQ/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTQ0/NzMtMTY5NzEwNzEx/Ny0yODkzLmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": {
-              "x": 0.19990422728018578,
-              "y": 0.09964951479027014,
-              "width": 0.6001915454396284,
-              "height": 0.8007009704194598
-            }
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Walls",
-            "artistName": "Kings of Leon",
-            "year": 2016,
-            "genre": "",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1487726834",
-            "musicBrainzID": null,
-            "discogsReleaseID": 9192389,
-            "discogsMasterID": 1073042,
-            "frontURL": null,
-            "backURL": null,
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/ph6Nmzu8YyTD1NBjckNfN6bZekpGAXfDlzdlI2E6-Q4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTIz/ODktMTU5ODAwMDQw/NC05NTg2LmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Kings of Leon",
-          "dividerAlignment": "leading",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
             "title": "Hybrid Theory",
             "artistName": "Linkin Park",
             "year": 2000,
@@ -3549,7 +3433,7 @@
         {
           "kind": "divider",
           "dividerName": "Linkin Park",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -3598,7 +3482,7 @@
         {
           "kind": "divider",
           "dividerName": "Live",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -3640,18 +3524,12 @@
           }
         },
         {
-          "kind": "divider",
-          "dividerName": "Mac DeMarco",
-          "dividerAlignment": "leading",
-          "dividerCompact": false
-        },
-        {
           "kind": "record",
           "album": {
-            "title": "Definitely Maybe (Deluxe Edition Remastered)",
-            "artistName": "Oasis",
-            "year": 1994,
-            "genre": "Indie Rock",
+            "title": "Here Comes the Cowboy",
+            "artistName": "Mac DeMarco",
+            "year": 2019,
+            "genre": "Alternative",
             "spineColor": [
               0.2,
               0.2,
@@ -3670,14 +3548,14 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "1525936190",
+            "appleMusicID": "1452955644",
             "musicBrainzID": null,
-            "discogsReleaseID": 14057872,
-            "discogsMasterID": 52255,
+            "discogsReleaseID": 13686018,
+            "discogsMasterID": 1546732,
             "frontURL": null,
-            "backURL": null,
-            "discURL": "https://i.discogs.com/yqhGwK-LqxtJ9-BLsLcPutYhSoUGYZN9I7btHaTw4Pc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU3/ODcyLTE1NjcyNDMw/MDktNDYxOC5qcGVn.jpeg",
-            "labelURL": null,
+            "backURL": "https://i.discogs.com/6msVKsSkYaDKIeNZQFcsyol0yIVJCKjbSqB5-5GYlg0/rs:fit/g:sm/q:90/h:477/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg2/MDE4LTE1ODUyNzAx/MTctOTkyNC5qcGVn.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/19qS7uZraWlqtJcDleNJgObhU6aITP_Awj2fZJEEB4A/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg2/MDE4LTE3ODE1NTQz/MTgtMjU3OC5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -3686,10 +3564,10 @@
         {
           "kind": "record",
           "album": {
-            "title": "(What's the Story) Morning Glory?",
-            "artistName": "Oasis",
-            "year": 1995,
-            "genre": "Indie Rock",
+            "title": "Five Easy Hot Dogs",
+            "artistName": "Mac DeMarco",
+            "year": 2023,
+            "genre": "Alternative",
             "spineColor": [
               0.2,
               0.2,
@@ -3708,66 +3586,28 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "1517447039",
+            "appleMusicID": "1661489563",
             "musicBrainzID": null,
-            "discogsReleaseID": 13866837,
-            "discogsMasterID": 52220,
+            "discogsReleaseID": 27366222,
+            "discogsMasterID": 2947195,
             "frontURL": null,
-            "backURL": "https://i.discogs.com/7YNXx-wcMAKIkkJoZbgQcjhjGVJD07OzMi97S5U3wd0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY2/ODM3LTE2NDUzODI2/NzktODAxNi5qcGVn.jpeg",
+            "backURL": "https://i.discogs.com/Zl23fSerFHoyFmzVxOhxVgSSXv57qfE2x-5h_nvocHg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzY2/MjIyLTE2OTM3MDc5/NDMtODkyMi5qcGVn.jpeg",
             "discURL": null,
-            "labelURL": "https://i.discogs.com/tZCcP9qoUC1ZG_3HasUjIE5hzhqkmEKk8n4C7kKRs20/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY2/ODM3LTE1NjI4OTM2/ODctOTQ2Mi5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Be Here Now",
-            "artistName": "Oasis",
-            "year": 1997,
-            "genre": "Indie Rock",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1517475368",
-            "musicBrainzID": null,
-            "discogsReleaseID": 9152970,
-            "discogsMasterID": 52240,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/hA6m4tjaxZNx8zMJ13AuOY2a-l71T9JJvxbK2R7zl5Q/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI5/NzAtMTYxODQ4MDI5/MC03NzU5LmpwZWc.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/lbDQSWnq-vCKJ2fH51rzCc1af6t2AhkOFPX1MDDCrFY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI5/NzAtMTYxODQ4MDI4/OC04ODUxLmpwZWc.jpeg",
+            "labelURL": "https://i.discogs.com/nomVE5OmKmbh4ESD-R5pIOy4xzQoE8tT1pkyh8ye0i4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzY2/MjIyLTE2OTM3MDc5/NDMtNTQ2Ny5qcGVn.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": {
-              "x": 0.07805075869219857,
-              "y": 0.07439541054419438,
-              "width": 0.86157452560907,
-              "height": 0.8630128804097529
+              "x": 0.015000000000000022,
+              "y": 0.012558724832214789,
+              "width": 0.97,
+              "height": 0.9748825503355705
             }
           }
         },
         {
           "kind": "divider",
-          "dividerName": "Oasis",
-          "dividerAlignment": "center",
+          "dividerName": "Mac DeMarco",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -3854,7 +3694,7 @@
         {
           "kind": "divider",
           "dividerName": "Pixies",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -4012,7 +3852,7 @@
         {
           "kind": "divider",
           "dividerName": "Rage Against the Machine",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -4099,7 +3939,7 @@
         {
           "kind": "divider",
           "dividerName": "Slayer",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -4224,7 +4064,7 @@
         {
           "kind": "divider",
           "dividerName": "Sufjan Stevens",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -4311,7 +4151,7 @@
         {
           "kind": "divider",
           "dividerName": "TOOL",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -4441,7 +4281,7 @@
         {
           "kind": "divider",
           "dividerName": "Tame Impala",
-          "dividerAlignment": "center",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -4523,55 +4363,6 @@
         {
           "kind": "divider",
           "dividerName": "The Cranberries",
-          "dividerAlignment": "trailing",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Wild Mood Swings",
-            "artistName": "The Cure",
-            "year": 1996,
-            "genre": "Alternative Rock",
-            "spineColor": [
-              0.55,
-              0.2,
-              0.3,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              0.75,
-              0.8,
-              1.0
-            ],
-            "coverColor": [
-              0.5,
-              0.18,
-              0.28,
-              1.0
-            ],
-            "appleMusicID": "300954542",
-            "musicBrainzID": null,
-            "discogsReleaseID": 1548948,
-            "discogsMasterID": 32090,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/IUmB2V_vGFgDGASWBJr7ITgcKoydjeQHXv7rDGCw7zo/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg5/NDgtMTQ4NzQwMTYw/My0yMDE1LmpwZWc.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/luw4l8bYPcyLyPXtWMbHe9tv2DyZn7YJJmFArocKuLA/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg5/NDgtMTM3MDYxNzUy/My0zMjAyLmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": {
-              "x": 0.015,
-              "y": 0.014028056112224449,
-              "width": 0.97,
-              "height": 0.9719438877755511
-            }
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "The Cure",
           "dividerAlignment": "leading",
           "dividerCompact": false
         },
@@ -4617,6 +4408,164 @@
           "kind": "divider",
           "dividerName": "The Goo Goo Dolls",
           "dividerAlignment": "center",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Hot Fuss",
+            "artistName": "The Killers",
+            "year": 2004,
+            "genre": "",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1526194184",
+            "musicBrainzID": null,
+            "discogsReleaseID": 8564231,
+            "discogsMasterID": 71471,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/aZ9E8VdvjeTDlORp8PxEVGPsqswIyz6Mo_FbB5RlSqE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQy/MzEtMTU0NTYzODc5/Mi04MTA3LmpwZWc.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/6ZT93um5Flkq6fy0kpuCb8Gz7_n2UwbqoME9bkg1ZvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQy/MzEtMTU0NTYzODc3/Ny03NTQ2LmpwZWc.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Sam's Town",
+            "artistName": "The Killers",
+            "year": 2006,
+            "genre": "",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1440507523",
+            "musicBrainzID": null,
+            "discogsReleaseID": 849458,
+            "discogsMasterID": 71534,
+            "frontURL": null,
+            "backURL": null,
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/uquiQ1ddd7lBs7LRnELdmlRjfhJZdSZ57hLxg1aDAfs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTQ1/OC0xMzYzNzQzODI2/LTEwMjYuanBlZw.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Day & Age",
+            "artistName": "The Killers",
+            "year": 2008,
+            "genre": "",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1440863940",
+            "musicBrainzID": null,
+            "discogsReleaseID": 11276639,
+            "discogsMasterID": 65119,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/LYLEI-q3nFRo8Yg9Cpb-zoPof_i3GUY1KAsH1RDRVQ4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc2/NjM5LTE1NDQ4Nzky/NzUtOTM4MC5qcGVn.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/VtRWdYl-2eW68bhXj4U7k8ttMEQW81GSOcSL2cyFYbU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc2/NjM5LTE1MTQ3NjA0/ODQtNTgwNy5qcGVn.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Battle Born",
+            "artistName": "The Killers",
+            "year": 2012,
+            "genre": "",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1440808419",
+            "musicBrainzID": null,
+            "discogsReleaseID": 3886754,
+            "discogsMasterID": 470918,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/5zSZRqkby1hwg9eMfwf-CJAlPM7cY5qlABPCg7a-U24/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/NzQxLTE1MjEyNDQx/NjQtMTEzOS5qcGVn.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/ZmcVFrdv-0IEKeFU5UlpFdUfqmpKvW7y5dwXQ4JB8_Q/rs:fit/g:sm/q:90/h:600/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/NzQxLTE1MjEyNDEw/ODctOTM4NC5qcGVn.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "The Killers",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -4794,7 +4743,127 @@
         {
           "kind": "divider",
           "dividerName": "The Smashing Pumpkins",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Angles",
+            "artistName": "The Strokes",
+            "year": 2011,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "581797918",
+            "musicBrainzID": null,
+            "discogsReleaseID": 16157654,
+            "discogsMasterID": 99377,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/6_dBXpjajlXwjXzZNfazrMLfPFTEAWyqpvBzps--gYw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU3/NjU0LTE2NDA1Mjg0/MTUtNTI1OC5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/IZ5w9QQqJNt1opzzRoZAo5ZC0V-5xry2UexudsAdhrs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU3/NjU0LTE2NDA1Mjg0/MTUtNTQ5MC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Comedown Machine",
+            "artistName": "The Strokes",
+            "year": 2013,
+            "genre": "Alternative",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "601140186",
+            "musicBrainzID": null,
+            "discogsReleaseID": 4443684,
+            "discogsMasterID": 537613,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/VLEB4ps83c8FvzrKCXTMrKC2ZAc1iIGdJkBTOwu9SLA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDM2/ODQtMTU4NjUzNDE1/Ny00MTEyLmpwZWc.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/fm3rJYfz8_Cdn3AVdt3hcOlvOufhdsKrfvvLNvmTDmo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDM2/ODQtMTU4NjUzNDE1/Ny01NzYyLmpwZWc.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "The New Abnormal",
+            "artistName": "The Strokes",
+            "year": 2020,
+            "genre": "Rock",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1498121188",
+            "musicBrainzID": null,
+            "discogsReleaseID": 16736646,
+            "discogsMasterID": 1712601,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/JSvoLvGxGluJIZgM6vMO74oLnVcR8W7zFhiHxvz802Q/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM2/NjQ2LTE2MDk1MzI1/MTItMzA5My5qcGVn.jpeg",
+            "discURL": null,
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "The Strokes",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -4886,7 +4955,7 @@
         {
           "kind": "divider",
           "dividerName": "Vampire Weekend",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -4973,94 +5042,7 @@
         {
           "kind": "divider",
           "dividerName": "Wet Leg",
-          "dividerAlignment": "center",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Schlagenheim",
-            "artistName": "black midi",
-            "year": 2019,
-            "genre": "Alternative",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1463962813",
-            "musicBrainzID": null,
-            "discogsReleaseID": 13776563,
-            "discogsMasterID": 1567054,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/LvXeCYVd41GPPoZwbXPIviqI-hRDYF7OveQVvpKFsvk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NTYzLTE1ODE0Njc2/OTAtOTY4NC5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/P6MpFpk5qkZL31ExHORwIn2KpnFFXsuD-BaoBfXNnfU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NTYzLTE1ODE0Njc2/ODktMTcwMy5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Cavalcade",
-            "artistName": "black midi",
-            "year": 2021,
-            "genre": "Alternative",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1556010645",
-            "musicBrainzID": null,
-            "discogsReleaseID": 18869488,
-            "discogsMasterID": 2140543,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/R2h0YdgvsmbTlvbvOWamhCMPpiF1wfJmkzOyvWQorTg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODY5/NDg4LTE2MjIyMjM1/OTMtNjU4Mi5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/hwinKEriIU6M9IuuYCiNCJzIvOVkGBBuY0atRYjhx7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODY5/NDg4LTE2MjE5MDAw/MTctMzg4Mi5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": {
-              "x": 0.07701330385552381,
-              "y": 0.07701330385552381,
-              "width": 0.8459733922889524,
-              "height": 0.8459733922889524
-            },
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "black midi",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         }
       ]
@@ -5207,10 +5189,10 @@
         {
           "kind": "record",
           "album": {
-            "title": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
-            "artistName": "A Tribe Called Quest",
-            "year": 1990,
-            "genre": "Rap",
+            "title": "LONG.LIVE.A$AP",
+            "artistName": "A$AP Rocky",
+            "year": 2013,
+            "genre": "Hip-Hop/Rap",
             "spineColor": [
               0.2,
               0.2,
@@ -5218,9 +5200,9 @@
               1.0
             ],
             "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
+              0.2,
+              0.2,
+              0.2,
               1.0
             ],
             "coverColor": [
@@ -5229,90 +5211,14 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "1806751228",
+            "appleMusicID": "581997129",
             "musicBrainzID": null,
-            "discogsReleaseID": 30565225,
-            "discogsMasterID": 45907,
+            "discogsReleaseID": 4204639,
+            "discogsMasterID": 511822,
             "frontURL": null,
-            "backURL": "https://i.discogs.com/tEOUXJldShk5v0dWSbVKrbtvdrrQmPF4WBtQ7W_FDHg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY1/MjI1LTE3MTQ2NzE0/MDItOTg2OS5wbmc.jpeg",
+            "backURL": "https://i.discogs.com/M3PoBAi0JhiJgciBCDFfW9bP7FplaoWIn7ZOdM5GUHY/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDQ2/MzktMTUyMjAxODEy/Ni01MjYwLmpwZWc.jpeg",
             "discURL": null,
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "The Low End Theory",
-            "artistName": "A Tribe Called Quest",
-            "year": 1991,
-            "genre": "Hip-Hop",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "278911460",
-            "musicBrainzID": null,
-            "discogsReleaseID": 25251232,
-            "discogsMasterID": 45922,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/6_sBxDo_Cvy_VnjUlw3hEO1MMQr7j-4gWs34iEEtf4Y/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjUx/MjMyLTE2Nzc0OTgx/NTYtMTU3Ny5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Midnight Marauders",
-            "artistName": "A Tribe Called Quest",
-            "year": 1993,
-            "genre": "Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "265670545",
-            "musicBrainzID": null,
-            "discogsReleaseID": 24877808,
-            "discogsMasterID": 45947,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/K5mTLzzdSsfGKCJAMB68aeLqhPzDHi2NkqoF55p5LUg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODc3/ODA4LTE2NjYyMDY2/NTEtNjU5NS5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/qMOrt7Uen2409VxkFIGkItL_yUBeJrqx59-JFsBAGRg/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODc3/ODA4LTE2NjYyMDY2/NTItMjE1Mi5qcGVn.jpeg",
+            "labelURL": "https://i.discogs.com/LKHq6vMIWIr5iCCPJ6fk77mBkJhG-tJ4J-20iMpiobo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDQ2/MzktMTcyNjI5OTcx/Ny0yMjk0LmpwZWc.jpeg",
             "backCrop": null,
             "discCrop": null,
             "labelCrop": null
@@ -5320,7 +5226,7 @@
         },
         {
           "kind": "divider",
-          "dividerName": "A Tribe Called Quest",
+          "dividerName": "A$AP Rocky",
           "dividerAlignment": "center",
           "dividerCompact": false
         },
@@ -5760,50 +5666,6 @@
         {
           "kind": "record",
           "album": {
-            "title": "Don't Be Cruel",
-            "artistName": "Bobby Brown",
-            "year": 1988,
-            "genre": "R&B/Soul",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1440773569",
-            "musicBrainzID": null,
-            "discogsReleaseID": 18758926,
-            "discogsMasterID": 112766,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/wA5MipTkaMJfTQ4BxU_zeeEJifRIgUVu92-IX1MKUKY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzU4/OTI2LTE2MzI5NzEw/MTItODI0MC5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/qaSo5CT343aM7fFvLxhpkUxMeEa17rvx3Tqp-p8Abgk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzU4/OTI2LTE2MzI5NzEw/MDctNTEyMS5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Bobby Brown",
-          "dividerAlignment": "trailing",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
             "title": "Invasion of Privacy",
             "artistName": "Cardi B",
             "year": 2018,
@@ -5842,7 +5704,7 @@
         {
           "kind": "divider",
           "dividerName": "Cardi B",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -5972,7 +5834,7 @@
         {
           "kind": "divider",
           "dividerName": "Common",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -6054,7 +5916,7 @@
         {
           "kind": "divider",
           "dividerName": "Curtis Mayfield",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -6103,7 +5965,7 @@
         {
           "kind": "divider",
           "dividerName": "De La Soul",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -6233,6 +6095,50 @@
         {
           "kind": "divider",
           "dividerName": "Eminem",
+          "dividerAlignment": "leading",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "JACKBOYS 2",
+            "artistName": "JACKBOYS & Travis Scott",
+            "year": 2025,
+            "genre": "Hip-Hop/Rap",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1826343589",
+            "musicBrainzID": null,
+            "discogsReleaseID": 36909519,
+            "discogsMasterID": null,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/Ru2dp2-52Jtn8ejJXfjPrryqqgr1j7DzKlJesdpd1KE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/NTE5LTE3NzQ3NDUx/MTAtODE3Ny5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/Q4GaeVpA1jSYTr-KTD1pj8ANlRaJhE9a3SSUNQG2Esk/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/NTE5LTE3NzQ3NDU1/ODctMzUwNS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "JACKBOYS & Travis Scott",
           "dividerAlignment": "center",
           "dividerCompact": false
         },
@@ -6452,9 +6358,9 @@
         {
           "kind": "record",
           "album": {
-            "title": "Embrya",
-            "artistName": "Maxwell",
-            "year": 1998,
+            "title": "What's Going On",
+            "artistName": "Marvin Gaye",
+            "year": 1971,
             "genre": "R&B/Soul",
             "spineColor": [
               0.2,
@@ -6474,20 +6380,20 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "1437600315",
+            "appleMusicID": "1538081586",
             "musicBrainzID": null,
-            "discogsReleaseID": 12585094,
-            "discogsMasterID": 153997,
+            "discogsReleaseID": 6680192,
+            "discogsMasterID": 66631,
             "frontURL": null,
-            "backURL": "https://i.discogs.com/sKChjaHfzGYrGk7G_nOqEvg9ZMASovA-pPlYeY_bzrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg1/MDk0LTE1MzgwODM5/NzUtMjc0Ny5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/HjCiKzqcEiTlYNUW-vojjsEnrxZ5ExJRdjdtbWXlo8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg1/MDk0LTE1MzgwODM5/NzQtNTQ3NS5qcGVn.jpeg",
+            "backURL": "https://i.discogs.com/6ZuEjBQTO4cqzLclcQglRKYKM33Pg767ZmGaRZlGJjg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODAx/OTItMTY4NzYzMjI1/NS03NzgwLmpwZWc.jpeg",
+            "discURL": "https://i.discogs.com/s2zCbm4nCQDT_XkWAYaQPQ-8E8JYFnw26_rNaE4U2Lo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODAx/OTItMTY4NzYzMjI1/Mi03NTQ4LmpwZWc.jpeg",
             "labelURL": null,
             "backCrop": null,
             "discCrop": {
-              "x": 0.05535274644871521,
-              "y": 0.03615083019440609,
-              "width": 0.898511426904638,
-              "height": 0.898511426904638
+              "x": 0.015000000000000046,
+              "y": 0.015809682804674503,
+              "width": 0.9699999999999999,
+              "height": 0.968380634390651
             },
             "labelCrop": null
           }
@@ -6495,9 +6401,9 @@
         {
           "kind": "record",
           "album": {
-            "title": "Now (2021 Remaster)",
-            "artistName": "Maxwell",
-            "year": 2001,
+            "title": "Let's Get It On (Remastered 2003)",
+            "artistName": "Marvin Gaye",
+            "year": 1973,
             "genre": "R&B/Soul",
             "spineColor": [
               0.2,
@@ -6517,28 +6423,196 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "388149897",
+            "appleMusicID": "1442835298",
             "musicBrainzID": null,
-            "discogsReleaseID": 21109729,
-            "discogsMasterID": 154281,
+            "discogsReleaseID": 17880187,
+            "discogsMasterID": 66602,
             "frontURL": null,
-            "backURL": "https://i.discogs.com/yrW0L2yki8YT6czGCCnB3uvTSLaPk7YW2NLfTiikQ-Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/NzI5LTE2Mzc3ODY0/MzMtMzIyOS5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/qhfLUHzAtlukQGgHsBYZ7KLqdp3DxhW9BvLIUCWohg8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/NzI5LTE2NTMwMDc0/MzEtMTM1Mi5qcGVn.jpeg",
+            "backURL": "https://i.discogs.com/LYJyv9mBFyQBYcPDolaGRzjkQSxd-tm_Yy5g032pqJ4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODgw/MTg3LTE2MTU5NzM0/NzAtODU2Ny5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/jWISwKcYRPIw3nH0pkhN3lM2FkIxZr9fy53wXM07pEw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODgw/MTg3LTE2MTU5NzM0/NzUtNzU5Mi5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "I Want You",
+            "artistName": "Marvin Gaye",
+            "year": 1976,
+            "genre": "R&B/Soul",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1440815358",
+            "musicBrainzID": null,
+            "discogsReleaseID": 3511789,
+            "discogsMasterID": 66757,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/Cb8iQymCIyRVpK8frbeLDr69hVT3sLyOepvA9jNdK1I/rs:fit/g:sm/q:90/h:579/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTE3/ODktMTM3MDc5MTc5/Ni05OTgxLmpwZWc.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/rWK1uvmJAUExwKN0h0benchBGoS94MQx2xNbqA6N1kM/rs:fit/g:sm/q:90/h:503/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTE3/ODktMTM3MDc5MTg5/NC01MTE2LmpwZWc.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Marvin Gaye",
+          "dividerAlignment": "trailing",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Good News",
+            "artistName": "Megan Thee Stallion",
+            "year": 2020,
+            "genre": "Hip-Hop/Rap",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1541243687",
+            "musicBrainzID": null,
+            "discogsReleaseID": 18837925,
+            "discogsMasterID": 1848252,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/DalApSOqJcPcHvy1d9_3a0pXxc7bTqUCU8Ezb5BI5kg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcx/OTMtMTA5My5qcGVn.jpeg",
             "labelURL": null,
             "backCrop": null,
             "discCrop": {
-              "x": 0.015,
-              "y": 0.013377926421404682,
-              "width": 0.97,
-              "height": 0.9732441471571907
+              "x": 0.06698949464343504,
+              "y": 0.06698949464343504,
+              "width": 0.8660210107131299,
+              "height": 0.8660210107131299
+            },
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Traumazine",
+            "artistName": "Megan Thee Stallion",
+            "year": 2022,
+            "genre": "Hip-Hop/Rap",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1639439718",
+            "musicBrainzID": null,
+            "discogsReleaseID": 33587145,
+            "discogsMasterID": 2748704,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/EiwKN13X92GzxlJtCs-x86V6sBsbOw9-fTEO-dbesPI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTQ1LTE3NDQ3Mjgx/MjktNzk5My5qcGVn.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/lDg1a02lc-Zvjjv4DGciD3jQC6z6-Yp2SMzX4wEfu6A/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTQ1LTE3NDQ3Mjgx/MjktOTI1NS5qcGVn.jpeg",
+            "backCrop": {
+              "x": 0.0075,
+              "y": 0.0,
+              "width": 0.985,
+              "height": 1.0
+            },
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "MEGAN",
+            "artistName": "Megan Thee Stallion",
+            "year": 2024,
+            "genre": "Hip-Hop/Rap",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1752025676",
+            "musicBrainzID": null,
+            "discogsReleaseID": 32478330,
+            "discogsMasterID": 3527792,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/lRwupim-aw6Vcz0NFiIlrqLjLVKbKr0Xblm6hF1mu54/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM3/OTI1LTE2MzYwNzcy/MDktODEyOS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/ZDLjSrhkquJLjk9ekwavd_I3dep2_4OJrPmjuwvphu0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDc4/MzMwLTE3Mzk2NDM4/MjAtNTgyMC5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": {
+              "x": 0.07300810464760199,
+              "y": 0.07300810464760199,
+              "width": 0.853983790704796,
+              "height": 0.853983790704796
             },
             "labelCrop": null
           }
         },
         {
           "kind": "divider",
-          "dividerName": "Maxwell",
-          "dividerAlignment": "trailing",
+          "dividerName": "Megan Thee Stallion",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -6668,50 +6742,6 @@
         {
           "kind": "divider",
           "dividerName": "Michael Jackson",
-          "dividerAlignment": "leading",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Black On Both Sides",
-            "artistName": "Mos Def",
-            "year": 1999,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1444213589",
-            "musicBrainzID": null,
-            "discogsReleaseID": 157592,
-            "discogsMasterID": 66510,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/g44SDGNwM97QfqiE2OFViJFrVmzpxNF3dd_DMg_xAo0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU5/Mi0xMzQ0NzA4NDMz/LTI0NzYuanBlZw.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/GaRvN9x4yqInTrz7Fk0U-VFuzFGIznl1PkLM3heh1uE/rs:fit/g:sm/q:90/h:344/w:347/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU5/Mi0xMjU1NTM5NjYx/LmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Mos Def",
           "dividerAlignment": "center",
           "dividerCompact": false
         },
@@ -7110,55 +7140,6 @@
         {
           "kind": "record",
           "album": {
-            "title": "Doggystyle (30th Anniversary Edition)",
-            "artistName": "Snoop Dogg",
-            "year": 1993,
-            "genre": "Hip-Hop/Rap",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1710796796",
-            "musicBrainzID": null,
-            "discogsReleaseID": 11129238,
-            "discogsMasterID": 30129,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/w76EYBlRwDLfLyZJR7pXzXJs8srylpkaudl51lZa-lQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTI5/MjM4LTE2NDA3MTE2/NTMtOTExMC5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": null,
-            "backCrop": {
-              "x": 0.0,
-              "y": 0.0008333333333333334,
-              "width": 1.0,
-              "height": 0.9983333333333333
-            },
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Snoop Dogg",
-          "dividerAlignment": "center",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
             "title": "A Seat at the Table",
             "artistName": "Solange",
             "year": 2016,
@@ -7240,7 +7221,7 @@
         {
           "kind": "divider",
           "dividerName": "Solange",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -7360,7 +7341,7 @@
         {
           "kind": "divider",
           "dividerName": "Stevie Wonder",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -7442,7 +7423,7 @@
         {
           "kind": "divider",
           "dividerName": "The Notorious B.I.G.",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         },
         {
@@ -7486,7 +7467,7 @@
         {
           "kind": "divider",
           "dividerName": "The Roots",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
@@ -7606,7 +7587,7 @@
         {
           "kind": "divider",
           "dividerName": "Travis Scott",
-          "dividerAlignment": "leading",
+          "dividerAlignment": "trailing",
           "dividerCompact": false
         },
         {
@@ -7650,7 +7631,7 @@
         {
           "kind": "divider",
           "dividerName": "Usher",
-          "dividerAlignment": "center",
+          "dividerAlignment": "leading",
           "dividerCompact": false
         }
       ]
@@ -7912,6 +7893,93 @@
         {
           "kind": "record",
           "album": {
+            "title": "Dangerous Woman",
+            "artistName": "Ariana Grande",
+            "year": 2016,
+            "genre": "Pop",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1440835631",
+            "musicBrainzID": null,
+            "discogsReleaseID": null,
+            "discogsMasterID": null,
+            "frontURL": null,
+            "backURL": null,
+            "discURL": null,
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "thank u, next",
+            "artistName": "Ariana Grande",
+            "year": 2019,
+            "genre": "Pop",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1450333975",
+            "musicBrainzID": null,
+            "discogsReleaseID": 38185398,
+            "discogsMasterID": 1498712,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/vy1QYRYdhTXM5S2bYu_YErD7S2Prn-FRC-Y0gnNGthk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg1/Mzk4LTE3ODcwNzgx/ODQtNDQ1Ni5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/D0cBOd8s8DdhJx8oUATSBRhxFIl7GM6ilwn07e0YpNQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg1/Mzk4LTE3ODcwNzgy/MTQtODIxMS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": {
+              "x": 0.057995797911571195,
+              "y": 0.057995797911571195,
+              "width": 0.8840084041768577,
+              "height": 0.8840084041768577
+            },
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Ariana Grande",
+          "dividerAlignment": "trailing",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
             "title": "Doo-Wops & Hooligans (Deluxe)",
             "artistName": "Bruno Mars",
             "year": 2010,
@@ -8026,88 +8094,6 @@
         {
           "kind": "divider",
           "dividerName": "Bruno Mars",
-          "dividerAlignment": "trailing",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "E\u2022MO\u2022TION",
-            "artistName": "Carly Rae Jepsen",
-            "year": 2015,
-            "genre": "Pop",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1442810070",
-            "musicBrainzID": null,
-            "discogsReleaseID": 35407732,
-            "discogsMasterID": 859652,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/k9gf4wTIQjn0yO6GGR7-KTXPhfS2uVOBUkTk1bLuXmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA3/NzMyLTE3NjA4MDAy/MDAtMzE4OS5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/pfp-AMvFT2qaVpFXzJyVRDxRTftjknpl5zfuxnuuPc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA3/NzMyLTE3NjA4MDAx/OTktNjEwOC5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "The Loneliest Time",
-            "artistName": "Carly Rae Jepsen",
-            "year": 2022,
-            "genre": "Pop",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1648431434",
-            "musicBrainzID": null,
-            "discogsReleaseID": 24899600,
-            "discogsMasterID": 2831843,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/ys-R0W5lZ5ColRfgg1CFKZXM1BeTRbN43RguHBYdJSk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk5/NjAwLTE2OTY0OTcz/NjktODIxNy5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/abTksqU9rmIJfMP3FQa2xSYK1rD8GhMCbMzjI4l95xU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk5/NjAwLTE2OTY0OTc0/MDEtOTUwNy5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Carly Rae Jepsen",
           "dividerAlignment": "leading",
           "dividerCompact": false
         },
@@ -8876,131 +8862,6 @@
         {
           "kind": "record",
           "album": {
-            "title": "Alright, Still (Bonus Track Version)",
-            "artistName": "Lily Allen",
-            "year": 2006,
-            "genre": "Pop",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "742457583",
-            "musicBrainzID": null,
-            "discogsReleaseID": 38328261,
-            "discogsMasterID": 44088,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/5cw3lUjO8E2mHcVWlsM3Kwxm23V1no8sn9LsKhWEhZQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzI4/MjYxLTE3ODg0NTgw/NjktOTQzNy5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/_M4cq2zu0J5oy8aaErlLeT9l1CdZsQOAcSrUKnS-QUk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzI4/MjYxLTE3ODg0NTgx/MzktNjI0Mi5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": {
-              "x": 0.0270743371227621,
-              "y": 0.19875417180195748,
-              "width": 0.9394269055493207,
-              "height": 0.703526371489158
-            }
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "It's Not Me It's You",
-            "artistName": "Lily Allen",
-            "year": 2009,
-            "genre": "",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "731919307",
-            "musicBrainzID": null,
-            "discogsReleaseID": 30432800,
-            "discogsMasterID": 44109,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/ecq4WEBSfxB0W_VSlmk9fsapxa1bnezRwX6S0_VwsNU/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDMy/ODAwLTE3MTQyMTk3/MzAtMTQwNC5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/-XnhL6nf5lFFL9_A9D83uQ0neCQwBN19MkKgVYQARZQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDMy/ODAwLTE3MTQyMTk3/MjktMTM0OS5qcGVn.jpeg",
-            "labelURL": null,
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "West End Girl",
-            "artistName": "Lily Allen",
-            "year": 2025,
-            "genre": "Pop",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1846342052",
-            "musicBrainzID": null,
-            "discogsReleaseID": 36359503,
-            "discogsMasterID": 4065919,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/kGoky4R1hFSW25_aKXEceP-N9BYxCv3BkpIdcjOpWvM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzU5/NTAzLTE3NzAxMzc0/MzQtMjEyNy5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/5SIUEZSGHm-6dNm_q25upnVyxBuGGR9evSXi5h6e0qA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzU5/NTAzLTE3NzAxMzc0/NTMtNjQwNi5qcGVn.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Lily Allen",
-          "dividerAlignment": "leading",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
             "title": "Songs About Jane",
             "artistName": "Maroon 5",
             "year": 2002,
@@ -9115,6 +8976,131 @@
         {
           "kind": "divider",
           "dividerName": "Maroon 5",
+          "dividerAlignment": "leading",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Blue Lines (2012 Mix/Master)",
+            "artistName": "Massive Attack",
+            "year": 1991,
+            "genre": "Electronic",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "715864097",
+            "musicBrainzID": null,
+            "discogsReleaseID": 4046462,
+            "discogsMasterID": 32618,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/tQfc5CESOVJVMdY2NrRg-W55jLOv4V7dyZ7aacWstCs/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDY0/NjItMTU2MDk3NjA5/MS00MzY2LmpwZWc.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/wnyqsL0HSf7WyRlv177jSP1X1nNMLg52bxl0mATdR9o/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDY0/NjItMTYxNjE3MjYx/OC0yNzM1LmpwZWc.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": {
+              "x": 0.015000000000000022,
+              "y": 0.014188963210702364,
+              "width": 0.97,
+              "height": 0.9716220735785953
+            }
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Protection",
+            "artistName": "Massive Attack",
+            "year": 1994,
+            "genre": "Electronic",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "724410562",
+            "musicBrainzID": null,
+            "discogsReleaseID": 60180,
+            "discogsMasterID": 32650,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/p7Jy3wSRdYuHmSDTj0jWxsjGKV7AkxEBr38uQvsRy1A/rs:fit/g:sm/q:90/h:494/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTgw/LTEzMzUyODM0NzUu/anBlZw.jpeg",
+            "discURL": null,
+            "labelURL": "https://i.discogs.com/4mHyR21PRX_74blxSni3C3-V349igYM7YQyNM8D_aQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTgw/LTEzMzUyODM0ODUu/anBlZw.jpeg",
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "Mezzanine (Deluxe)",
+            "artistName": "Massive Attack",
+            "year": 1998,
+            "genre": "Electronic",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1428684976",
+            "musicBrainzID": null,
+            "discogsReleaseID": 6530,
+            "discogsMasterID": 23683,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/uj4EwghjqunRwqsk3jiplMtz71CpyE2vaXhA7ibpIQ8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAt/MTYxNTMwMzUzMy0y/MzI5LmpwZWc.jpeg",
+            "discURL": "https://i.discogs.com/cUPFgIcGKInf2o_oWvQ122uXWtNbuc_Mg4cpytbfyG4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAt/MTQwNTg2MjIyNC00/MjAwLmpwZWc.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": null,
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Massive Attack",
           "dividerAlignment": "center",
           "dividerCompact": false
         },
@@ -9386,93 +9372,6 @@
         {
           "kind": "record",
           "album": {
-            "title": "Everything Is Wrong",
-            "artistName": "Moby",
-            "year": 1995,
-            "genre": "Electronic",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1556721436",
-            "musicBrainzID": null,
-            "discogsReleaseID": 8577393,
-            "discogsMasterID": 2972,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/5A0UD6dX9eoT7atHCL3LA5E7iJrer35F5MRbmr5NAKA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzcz/OTMtMTU3OTE4MTEx/OS04NjUyLmpwZWc.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/O9aeCo2ezUI6fmUbPlvi-_RnNaQfm7-G8AFWBwIEQnM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzcz/OTMtMTU3Njc2NTYx/NC05MTEwLmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": null
-          }
-        },
-        {
-          "kind": "record",
-          "album": {
-            "title": "Play",
-            "artistName": "Moby",
-            "year": 1999,
-            "genre": "",
-            "spineColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "spineAccentColor": [
-              1.0,
-              1.0,
-              1.0,
-              1.0
-            ],
-            "coverColor": [
-              0.2,
-              0.2,
-              0.2,
-              1.0
-            ],
-            "appleMusicID": "1747966523",
-            "musicBrainzID": null,
-            "discogsReleaseID": 8465720,
-            "discogsMasterID": 453774,
-            "frontURL": null,
-            "backURL": "https://i.discogs.com/s8sbzwx_mSNnUCMaTSEWGxSgs5lnra02gV1ZrmaOnRE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjU3/MjAtMTUwMDYzNDk3/OS03Mjc4LmpwZWc.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/rxWlhzusV2lhUyykD9uIsDasAKU6FN3k0WCh5sVR2hI/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjU3/MjAtMTUwMDYzNTA3/OS02MjY1LmpwZWc.jpeg",
-            "backCrop": null,
-            "discCrop": null,
-            "labelCrop": {
-              "x": 0.015000000000000012,
-              "y": 0.025508333333333345,
-              "width": 0.97,
-              "height": 0.9489833333333333
-            }
-          }
-        },
-        {
-          "kind": "divider",
-          "dividerName": "Moby",
-          "dividerAlignment": "center",
-          "dividerCompact": false
-        },
-        {
-          "kind": "record",
-          "album": {
             "title": "Whoa, Nelly!",
             "artistName": "Nelly Furtado",
             "year": 2000,
@@ -9592,14 +9491,62 @@
         {
           "kind": "divider",
           "dividerName": "Nelly Furtado",
-          "dividerAlignment": "trailing",
+          "dividerAlignment": "center",
           "dividerCompact": false
         },
         {
           "kind": "record",
           "album": {
-            "title": "Messy",
-            "artistName": "Olivia Dean",
+            "title": "SOUR",
+            "artistName": "Olivia Rodrigo",
+            "year": 2021,
+            "genre": "Pop",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "1560734944",
+            "musicBrainzID": null,
+            "discogsReleaseID": 37479747,
+            "discogsMasterID": 2136718,
+            "frontURL": null,
+            "backURL": "https://i.discogs.com/mtOpbMOLhNsEwfk7q3OGejGq2f2_cLCO7ChDrKDlCLM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/NzQ3LTE3ODAxODIz/NjctNDU1NS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/DHYEbw8c2vVge8bNXJFyG52nBlIF_LXSScRJwIQmXvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/NzQ3LTE3ODE2OTk5/MjYtNjI0MS5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": {
+              "x": 0.0,
+              "y": 0.004166666666666667,
+              "width": 1.0,
+              "height": 0.9916666666666667
+            },
+            "discCrop": {
+              "x": 0.05170853916891588,
+              "y": 0.05170853916891588,
+              "width": 0.8965829216621682,
+              "height": 0.8965829216621682
+            },
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "GUTS",
+            "artistName": "Olivia Rodrigo",
             "year": 2023,
             "genre": "Pop",
             "spineColor": [
@@ -9620,13 +9567,62 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "1676252821",
+            "appleMusicID": "1694767605",
             "musicBrainzID": null,
-            "discogsReleaseID": 36244534,
-            "discogsMasterID": 3153258,
+            "discogsReleaseID": 28208182,
+            "discogsMasterID": 3231790,
             "frontURL": null,
-            "backURL": "https://i.discogs.com/WvILbWQ634m9mDJVoHZGNFWHWZFZBCRqqvCuzImfIJs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/NTM0LTE3Njg3MTM1/ODAtNDIwOS5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/3A34X_6a84oZqP6dRs2nZ2wRQB88W_5vPOFr-qjQ3iE/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/NTM0LTE3Njg3MTM1/ODAtMjkwOC5qcGVn.jpeg",
+            "backURL": "https://i.discogs.com/l8R7ZVeUPG3f20L7NKBwaCn-Rr8XuGW4q1vNc-WLajw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA4/MTgyLTE3NzM3ODE3/MzYtOTY4Ni5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/GRfoEq4vpnS3xjcTceiL0iInCZiqiyLMMzbi7AfStVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA4/MTgyLTE3NzM3ODE4/ODktNzQ3Mi5qcGVn.jpeg",
+            "labelURL": null,
+            "backCrop": null,
+            "discCrop": {
+              "x": 0.049193729820148725,
+              "y": 0.049193729820148725,
+              "width": 0.9016125403597025,
+              "height": 0.9016125403597025
+            },
+            "labelCrop": null
+          }
+        },
+        {
+          "kind": "divider",
+          "dividerName": "Olivia Rodrigo",
+          "dividerAlignment": "trailing",
+          "dividerCompact": false
+        },
+        {
+          "kind": "record",
+          "album": {
+            "title": "The Truth About Love",
+            "artistName": "P!nk",
+            "year": 2012,
+            "genre": "Pop",
+            "spineColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "spineAccentColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "coverColor": [
+              0.2,
+              0.2,
+              0.2,
+              1.0
+            ],
+            "appleMusicID": "545389041",
+            "musicBrainzID": null,
+            "discogsReleaseID": null,
+            "discogsMasterID": null,
+            "frontURL": null,
+            "backURL": null,
+            "discURL": null,
             "labelURL": null,
             "backCrop": null,
             "discCrop": null,
@@ -9636,9 +9632,9 @@
         {
           "kind": "record",
           "album": {
-            "title": "The Art of Loving",
-            "artistName": "Olivia Dean",
-            "year": 2025,
+            "title": "Beautiful Trauma",
+            "artistName": "P!nk",
+            "year": 2017,
             "genre": "Pop",
             "spineColor": [
               0.2,
@@ -9647,9 +9643,9 @@
               1.0
             ],
             "spineAccentColor": [
-              0.2,
-              0.2,
-              0.2,
+              1.0,
+              1.0,
+              1.0,
               1.0
             ],
             "coverColor": [
@@ -9658,32 +9654,22 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "1817609404",
+            "appleMusicID": "1269232054",
             "musicBrainzID": null,
-            "discogsReleaseID": 35207368,
-            "discogsMasterID": 3984037,
+            "discogsReleaseID": null,
+            "discogsMasterID": null,
             "frontURL": null,
-            "backURL": "https://i.discogs.com/lSTPjwVGihFvrHTOlZzwD3v1h6xkWEFIUCndAhSBFQ4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NTk0OTMz/MTYtNzY5OC5qcGVn.jpeg",
-            "discURL": "https://i.discogs.com/7Z1zzWzdP7hIXP8iG4ZemcMcRts7_IVI8HNvDOzxwfE/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtODY1OS5qcGVn.jpeg",
+            "backURL": null,
+            "discURL": null,
             "labelURL": null,
-            "backCrop": {
-              "x": 0.0050000000000000044,
-              "y": 0.0,
-              "width": 0.99,
-              "height": 1.0
-            },
-            "discCrop": {
-              "x": 0.028741666666666676,
-              "y": 0.015000000000000008,
-              "width": 0.9425166666666667,
-              "height": 0.97
-            },
+            "backCrop": null,
+            "discCrop": null,
             "labelCrop": null
           }
         },
         {
           "kind": "divider",
-          "dividerName": "Olivia Dean",
+          "dividerName": "P!nk",
           "dividerAlignment": "leading",
           "dividerCompact": false
         },
