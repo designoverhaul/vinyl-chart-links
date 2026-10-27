@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T12:59:35Z",
+  "generatedAt": "2026-10-27T14:17:11Z",
   "crateOrder": [
     "classics",
     "modern_rock",
@@ -1339,7 +1339,7 @@
               0.08,
               1.0
             ],
-            "appleMusicID": "1440806041",
+            "appleMusicID": "6781023399",
             "musicBrainzID": "a885cfae-1025-344c-8326-dea2094b2683",
             "discogsReleaseID": 612780,
             "discogsMasterID": 5863,
@@ -1377,7 +1377,7 @@
               0.3,
               1.0
             ],
-            "appleMusicID": "1440646541",
+            "appleMusicID": "6781074739",
             "musicBrainzID": "d9f31858-05dc-49b3-b8c3-5f9558168369",
             "discogsReleaseID": 475599,
             "discogsMasterID": 6414,
@@ -4163,7 +4163,7 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "258756233",
+            "appleMusicID": "1586495450",
             "musicBrainzID": null,
             "discogsReleaseID": 1032674,
             "discogsMasterID": 43603,
@@ -4201,7 +4201,7 @@
               0.2,
               1.0
             ],
-            "appleMusicID": "1440859888",
+            "appleMusicID": "1589225354",
             "musicBrainzID": null,
             "discogsReleaseID": 6268720,
             "discogsMasterID": 717187,
@@ -9715,10 +9715,15 @@
             "discogsMasterID": 3335545,
             "frontURL": null,
             "backURL": "https://i.discogs.com/Df9VKUi5tTNIdWz3rGhXQU2x2sPxB-osfL_GilyVwXs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTQ0/NTU4LTE3NDcwODk5/MDktODIxNi5qcGVn.jpeg",
-            "discURL": null,
-            "labelURL": "https://i.discogs.com/k4XGqSeGRhp0-UD_3GOdj46A_4Czh9_Xd_zYN9Jb8Vk/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTQ0/NTU4LTE3NDcwODk5/MDgtNjIwMS5qcGVn.jpeg",
+            "discURL": "https://i.discogs.com/smt9xs9_oUn7_HheiynjxPky4xW1JOlV2BnK80-vlGQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTQ0/NTU4LTE3NDcwODk5/MDgtNDk4My5qcGVn.jpeg",
+            "labelURL": null,
             "backCrop": null,
-            "discCrop": null,
+            "discCrop": {
+              "x": 0.08795145381662878,
+              "y": 0.08795145381662878,
+              "width": 0.8240970923667424,
+              "height": 0.8240970923667424
+            },
             "labelCrop": null
           }
         },
