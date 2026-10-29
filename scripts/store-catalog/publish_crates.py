@@ -208,7 +208,7 @@ def album_dto(fields: dict) -> dict:
     front = fields.get("Front URL") or None
     if fields.get("Apple Music ID"):
         front = None
-    return {
+    dto = {
         "title": fields.get("Title") or "",
         "artistName": fields.get("Artist Name") or "",
         "year": int(fields.get("Year") or 0),
@@ -228,6 +228,11 @@ def album_dto(fields: dict) -> dict:
         "discCrop": disc_crop,
         "labelCrop": label_crop,
     }
+    # Discogs gallery image file names to hide (one per line), e.g. R-123-1711362364-6486.jpeg.
+    hidden = [h.strip() for h in (fields.get("Hidden Image Hashes") or "").splitlines() if h.strip()]
+    if hidden:
+        dto["hiddenImageHashes"] = hidden
+    return dto
 
 
 def build_snapshot(albums: list[dict]) -> dict:
