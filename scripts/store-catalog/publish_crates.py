@@ -205,9 +205,8 @@ def album_dto(fields: dict) -> dict:
         label = None
         label_crop = None
     # Front URL is optional; apps prefer Apple Music ID for covers.
+    # Front URL is an optional override; apps fall back to Apple Music art when null.
     front = fields.get("Front URL") or None
-    if fields.get("Apple Music ID"):
-        front = None
     dto = {
         "title": fields.get("Title") or "",
         "artistName": fields.get("Artist Name") or "",
