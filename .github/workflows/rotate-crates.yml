@@ -32,10 +32,22 @@ jobs:
             cp scripts/store-catalog/crates-v1.json ./crates-v1.json
           fi
 
+      # Full search index. Must run even when shelves do not rotate, because
+      # new pool albums never appear in crates-v1.json. continue-on-error
+      # keeps a catalog failure from blocking the crate commit below.
+      - name: Publish catalog-v1.json
+        continue-on-error: true
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: appBBdksyoPp31wPr
+        run: |
+          set -euo pipefail
+          python3 scripts/publish_catalog.py --out ./catalog-v1.json
+
       - name: Commit crates-v1.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add crates-v1.json
+          git add crates-v1.json catalog-v1.json
           git diff --staged --quiet && echo "No changes" || git commit -m "Rotate store crates"
           git push
